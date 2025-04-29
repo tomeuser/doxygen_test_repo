@@ -25,10 +25,7 @@ jobs:
       run: doxygen Doxyfile
       working-directory: "./docs"
 
-    - name: Deploy to GitHub Pages
-      if: github.ref == 'refs/heads/main'
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./html # Adjust this to the directory where Doxygen generates the HTML files
-        destination_dir: ./docs # Optional: if you want to publish to a subdirectory like /docs
+    - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./docs/html
