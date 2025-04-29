@@ -1,0 +1,5 @@
+<map id="Adafruit_ADS1X15::startComparator_SingleEnded" name="Adafruit_ADS1X15::startComparator_SingleEnded">
+<area shape="rect" id="Node000001" title="Sets up the comparator to operate in basic mode, causing the ALERT/RDY pin to assert (go from high to..." alt="" coords="5,5,235,46"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__ADS1X15.html#a7b62080c0e3ad34ea753715c54f1a50c" title="Writes 16&#45;bits to the specified destination register." alt="" coords="283,13,495,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,23,267,23,267,28,235,28"/>
+</map>

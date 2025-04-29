@@ -1,0 +1,3 @@
+<map id="StringAdapter&lt; T, typename enable_if&lt;(string_traits&lt; T &gt;::has_cstr||string_traits&lt; T &gt;::has_data) &amp;&amp;(string_traits&lt; T &gt;::has_length||string_traits&lt; T &gt;::has_size)&gt;::type &gt;" name="StringAdapter&lt; T, typename enable_if&lt;(string_traits&lt; T &gt;::has_cstr||string_traits&lt; T &gt;::has_data) &amp;&amp;(string_traits&lt; T &gt;::has_length||string_traits&lt; T &gt;::has_size)&gt;::type &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,202,228"/>
+</map>

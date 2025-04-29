@@ -1,0 +1,19 @@
+<map id="Adafruit_SPIDevice::setChipSelect" name="Adafruit_SPIDevice::setChipSelect">
+<area shape="rect" id="Node000001" title="Assert/Deassert the CS pin if it is defined." alt="" coords="466,104,601,145"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__SPIDevice.html#a11e91bf075cdd77edcec11f4b28c6292" title="Write a buffer or two to the SPI device, with transaction management." alt="" coords="191,71,416,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="451,115,416,110,417,105,451,110"/>
+<area shape="rect" id="Node000007" href="$classAdafruit__SPIDevice.html#ad9e42c259682a03e76afd33c66af9317" title="Manually end a transaction (calls endTransaction if hardware SPI) with deasserting the CS pin." alt="" coords="189,136,418,177"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="451,138,419,143,418,138,450,133"/>
+<area shape="rect" id="Node000003" href="$classAdafruit__SPIDevice.html#a5c4fce15c92a0210c0872a827f239ab1" title="Read from SPI into a buffer from the SPI device, with transaction management." alt="" coords="5,136,141,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="216,119,142,140,141,135,214,113"/>
+<area shape="rect" id="Node000004" href="$classAdafruit__SPIDevice.html#a1c984896fcc5d009511ce37a659fdb2e" title="Write a buffer or two to the SPI device, with transaction management." alt="" coords="5,201,141,242"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="199,121,190,126,175,141,166,157,158,173,142,190,124,203,121,199,139,186,153,170,162,154,171,138,187,122,196,117"/>
+<area shape="rect" id="Node000005" href="$classAdafruit__SPIDevice.html#a808c81bc4b9e42d064b9f590a1f6b1bd" title="Write some data and read some data at the same time from SPI into the same buffer,..." alt="" coords="5,5,141,46"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="214,69,141,47,142,42,216,63"/>
+<area shape="rect" id="Node000006" href="$classAdafruit__SPIDevice.html#a9cc3386cab3750aa18bbf3918261fc54" title="Write some data, then read some data from SPI into another buffer, with transaction management...." alt="" coords="5,71,141,111"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="175,94,141,94,141,88,175,88"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="173,159,141,159,141,154,173,154"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="216,184,142,205,141,200,214,179"/>
+<area shape="poly" id="edge9_Node000007_Node000005" title=" " alt="" coords="196,131,187,125,171,109,162,93,153,77,139,61,121,49,124,44,142,57,158,74,166,91,175,106,190,121,199,126"/>
+<area shape="poly" id="edge10_Node000007_Node000006" title=" " alt="" coords="214,134,141,113,142,108,216,129"/>
+</map>

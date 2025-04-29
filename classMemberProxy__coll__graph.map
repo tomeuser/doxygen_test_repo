@@ -1,0 +1,11 @@
+<map id="MemberProxy&lt; TUpstream, TStringRef &gt;" name="MemberProxy&lt; TUpstream, TStringRef &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="128,1489,298,1733"/>
+<area shape="rect" id="Node000002" href="$classVariantRefBase.html" title=" " alt="" coords="5,120,197,1441"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,1456,200,1489,194,1490,190,1456"/>
+<area shape="rect" id="Node000003" href="$structVariantTag.html" title=" " alt="" coords="64,5,138,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,87,104,120,98,120,98,87"/>
+<area shape="rect" id="Node000004" href="$structVariantOperators.html" title=" " alt="" coords="222,740,431,821"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="322,836,232,1490,227,1489,316,835"/>
+<area shape="rect" id="Node000005" href="$structVariantOperatorTag.html" title=" " alt="" coords="265,5,388,72"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="329,87,329,740,324,740,324,87"/>
+</map>

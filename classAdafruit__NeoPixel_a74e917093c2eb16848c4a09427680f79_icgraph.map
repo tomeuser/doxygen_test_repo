@@ -1,0 +1,12 @@
+<map id="Adafruit_NeoPixel::updateLength" name="Adafruit_NeoPixel::updateLength">
+<area shape="rect" id="Node000001" title="Change the length of a previously&#45;declared Adafruit_NeoPixel strip object. Old data is deallocated an..." alt="" coords="681,41,813,82"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__NeoPixel.html#aac61dab69181d4554be8cdde40e4bce6" title="NeoPixel constructor when length, pin and pixel type are known at compile&#45;time." alt="" coords="323,41,454,82"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="666,61,633,60,502,60,454,62,454,56,502,55,633,55,666,56"/>
+<area shape="rect" id="Node000005" href="$classAdafruit__NeoPixel.html#a07b6949674125159484e9e02ef025f7d" title="Change the pixel format of a previously&#45;declared Adafruit_NeoPixel strip object. If format changes fr..." alt="" coords="502,69,633,110"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="666,77,634,82,633,77,665,72"/>
+<area shape="rect" id="Node000003" href="$classMatrixController.html#af843402c0281f89048c665ba06cf644a" title="Constructor to initialize the LED matrix." alt="" coords="64,5,216,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="307,53,216,39,217,34,308,47"/>
+<area shape="rect" id="Node000004" href="$classMatrixController.html#aa7de9d30fb788ed47ba3f375117d3c7f" title=" " alt="" coords="5,70,275,126"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="308,76,275,81,275,75,307,71"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="486,80,454,75,455,69,487,74"/>
+</map>

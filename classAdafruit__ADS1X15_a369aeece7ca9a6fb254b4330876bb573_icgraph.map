@@ -1,0 +1,13 @@
+<map id="Adafruit_ADS1X15::startADCReading" name="Adafruit_ADS1X15::startADCReading">
+<area shape="rect" id="Node000001" title="Non&#45;blocking start conversion function." alt="" coords="242,144,478,169"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__ADS1X15.html#a9451025a1d57b0d01eed5e5cbb3d9249" title="Reads the conversion results, measuring the voltage difference between the P (AIN0) and N (AIN1) inpu..." alt="" coords="5,5,194,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="325,137,264,100,193,61,163,49,165,44,195,57,267,95,328,133"/>
+<area shape="rect" id="Node000003" href="$classAdafruit__ADS1X15.html#a07016074440ba793636633da32a3f30d" title="Reads the conversion results, measuring the voltage difference between the P (AIN0) and N (AIN3) inpu..." alt="" coords="5,71,194,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="290,142,183,115,184,109,292,137"/>
+<area shape="rect" id="Node000004" href="$classAdafruit__ADS1X15.html#a7b727524444305319aa60c21b1a58239" title="Reads the conversion results, measuring the voltage difference between the P (AIN1) and N (AIN3) inpu..." alt="" coords="5,136,194,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="226,159,194,159,194,154,226,154"/>
+<area shape="rect" id="Node000005" href="$classAdafruit__ADS1X15.html#abbc2117832a544d26fe50129a53dcf33" title="Reads the conversion results, measuring the voltage difference between the P (AIN2) and N (AIN3) inpu..." alt="" coords="5,201,194,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="292,176,184,203,183,198,290,171"/>
+<area shape="rect" id="Node000006" href="$classAdafruit__ADS1X15.html#a9048c868e4904071b83c74b224918fc8" title="Gets a single&#45;ended ADC reading from the specified channel." alt="" coords="5,267,194,307"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="328,180,267,218,195,256,165,269,163,264,193,251,264,213,325,176"/>
+</map>

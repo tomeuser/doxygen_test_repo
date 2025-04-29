@@ -1,0 +1,9 @@
+<map id="OtaUpdate::requestLatestFirmware" name="OtaUpdate::requestLatestFirmware">
+<area shape="rect" id="Node000001" title="This function initiates a http request to download a json file which should contain all latest firmwa..." alt="" coords="5,23,176,64"/>
+<area shape="rect" id="Node000002" href="$classOtaUpdate.html#a01384013b060b6c00085149e232ab0ea" title="This function analyses the json file which contains all latest firmware information." alt="" coords="224,5,367,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,30,208,26,209,32,176,36"/>
+<area shape="rect" id="Node000004" href="$classOtaUpdate.html#aa9ac7aeff7008ce69afd9fb8d7c2e78b" title="This function splits an url into three components domain, port, path. If url contanis http port = 80,..." alt="" coords="230,55,361,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="176,51,214,55,214,61,175,56"/>
+<area shape="rect" id="Node000003" href="$classOtaUpdate.html#acdba8ea5767239cfc79e906cc599def8" title="Compares old and new firmware version number and returns if new version is available." alt="" coords="415,5,617,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="367,16,399,16,399,21,367,21"/>
+</map>

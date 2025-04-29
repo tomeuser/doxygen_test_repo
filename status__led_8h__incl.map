@@ -1,0 +1,5 @@
+<map id="status_led.h" name="status_led.h">
+<area shape="rect" id="Node000001" title="This is the class to control the status led." alt="" coords="27,5,119,31"/>
+<area shape="rect" id="Node000002" href="$Adafruit__NeoPixel_8h.html" title=" " alt="" coords="5,79,141,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,31,76,63,70,63,70,31"/>
+</map>

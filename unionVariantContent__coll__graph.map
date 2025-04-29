@@ -1,0 +1,8 @@
+<map id="VariantContent" name="VariantContent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="54,5,187,194"/>
+<area shape="rect" id="Node000003" href="$classVariantSlot.html" title=" " alt="" coords="5,257,126,608"/>
+<area shape="poly" id="edge3_Node000003_Node000001" title=" " alt="" coords="105,194,101,218,97,241,92,240,96,217,100,193"/>
+<area shape="rect" id="Node000002" href="$classCollectionData.html" title=" " alt="" coords="52,686,186,1138"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,686,135,662,147,447,153,233,153,218,151,211,157,210,158,217,158,233,152,447,140,662,139,686"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="88,607,95,669,90,670,83,608"/>
+</map>

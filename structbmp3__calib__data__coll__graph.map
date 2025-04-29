@@ -1,0 +1,7 @@
+<map id="bmp3_calib_data" name="bmp3_calib_data">
+<area shape="rect" id="Node000001" title="Calibration data." alt="" coords="124,704,233,770"/>
+<area shape="rect" id="Node000002" href="$structbmp3__quantized__calib__data.html" title="Quantized Trim Variables." alt="" coords="5,5,176,641"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,640,108,679,115,690,111,693,103,681,86,642"/>
+<area shape="rect" id="Node000003" href="$structbmp3__reg__calib__data.html" title="Register Trim Variables." alt="" coords="200,5,334,641"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="255,642,240,681,233,693,228,690,235,679,251,640"/>
+</map>

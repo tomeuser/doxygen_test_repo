@@ -1,0 +1,5 @@
+<map id="TempSensor::TempSensor" name="TempSensor::TempSensor">
+<area shape="rect" id="Node000001" title="Construct a new TempSensor object." alt="" coords="5,13,181,38"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__BMP3XX.html#a0a9202db376246e4b8d192ddeed9468a" title="Instantiates sensor." alt="" coords="229,5,407,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,23,213,23,213,28,181,28"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Adafruit_BusIO_Register::println" name="Adafruit_BusIO_Register::println">
+<area shape="rect" id="Node000001" title="Pretty printer for this register." alt="" coords="5,29,171,70"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__BusIO__Register.html#abc1e92469336a95e6ddf34bd7fd18a67" title="Pretty printer for this register." alt="" coords="219,29,384,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,47,203,47,203,52,171,52"/>
+<area shape="rect" id="Node000003" href="$classAdafruit__BusIO__Register.html#a699434b2567ae8fce541b8048d891252" title="Read data from the register location. This does not do any error checking!" alt="" coords="432,29,597,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="384,47,416,47,416,52,384,52"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="474,29,472,19,479,10,493,5,515,3,538,5,552,11,549,16,536,10,515,8,494,10,482,15,477,20,479,28"/>
+</map>

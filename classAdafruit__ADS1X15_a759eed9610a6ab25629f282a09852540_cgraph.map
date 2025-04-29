@@ -1,0 +1,5 @@
+<map id="Adafruit_ADS1X15::getLastConversionResults" name="Adafruit_ADS1X15::getLastConversionResults">
+<area shape="rect" id="Node000001" title="In order to clear the comparator, we need to read the conversion results. This function reads the las..." alt="" coords="5,5,186,46"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__ADS1X15.html#a5e66d4abbf9f0de8c628e9a412beaf8f" title="Read 16&#45;bits from the specified destination register." alt="" coords="234,13,443,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,23,218,23,218,28,186,28"/>
+</map>

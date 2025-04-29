@@ -1,0 +1,7 @@
+<map id="Adafruit_INA219::getCurrent_raw" name="Adafruit_INA219::getCurrent_raw">
+<area shape="rect" id="Node000001" title="Gets the raw current value (16&#45;bit signed integer, so +&#45;32767)" alt="" coords="5,46,217,72"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__BusIO__Register.html#a2b48e23dacbb7cffc0eb07dcebcfba6f" title="Read a buffer of data from the register location." alt="" coords="265,5,430,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,43,249,37,249,42,207,48"/>
+<area shape="rect" id="Node000003" href="$classAdafruit__BusIO__Register.html#aa418dced5301a1d8c1776a1941c8bc64" title="Write a buffer of data to the register location." alt="" coords="265,71,430,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,70,250,75,249,80,210,75"/>
+</map>

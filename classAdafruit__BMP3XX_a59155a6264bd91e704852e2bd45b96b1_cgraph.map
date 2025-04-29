@@ -1,0 +1,16 @@
+<map id="Adafruit_BMP3XX::readPressure" name="Adafruit_BMP3XX::readPressure">
+<area shape="rect" id="Node000001" title="Performs a reading and returns the barometric pressure." alt="" coords="5,55,216,80"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__BMP3XX.html#abfb33a666d7fa5d2bb36e701f41e41fe" title="Perform a reading in blocking mode." alt="" coords="264,47,441,88"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,65,248,65,248,70,216,70"/>
+<area shape="rect" id="Node000003" href="$bmp3_8c.html#a8b7c253abd6cd44aa260578a10395697" title="This API reads the pressure, temperature or both data from the sensor, compensates the data and store..." alt="" coords="714,5,871,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="441,47,489,40,597,28,699,20,699,26,598,33,489,45,442,52"/>
+<area shape="rect" id="Node000005" href="$bmp3_8c.html#aad480e8293520382c77e0b711241d964" title="This API sets the power mode of the sensor." alt="" coords="508,55,647,80"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="441,65,493,65,493,70,441,70"/>
+<area shape="rect" id="Node000007" href="$bmp3_8c.html#a2748517d2685101bafc1c2bdf813c391" title="This API sets the power control(pressure enable andtemperature enable), over sampling,..." alt="" coords="489,104,666,130"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="442,84,502,98,501,103,440,89"/>
+<area shape="rect" id="Node000004" href="$bmp3_8c.html#a9e0c2cdecfdac8aa6ed4e35940f7ade7" title="This API reads the data from the given register address of the sensor." alt="" coords="919,31,1029,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="872,26,904,31,903,36,871,32"/>
+<area shape="rect" id="Node000006" href="$bmp3_8c.html#aab06f63f2fc075f9d40bd0a16d42fda5" title="This API gets the power mode of the sensor." alt="" coords="723,55,862,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="647,65,708,65,708,70,647,70"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="862,56,903,50,904,55,862,61"/>
+</map>

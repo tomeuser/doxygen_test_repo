@@ -1,0 +1,5 @@
+<map id="LightSensor::isReadComplete" name="LightSensor::isReadComplete">
+<area shape="rect" id="Node000001" title="Checks if the reading from the given sensor is complete." alt="" coords="175,5,367,31"/>
+<area shape="rect" id="Node000002" href="$classLightSensor.html#a301cdeeff811d7c879cfce4c7e72c98c" title="Main loop function for the light sensor." alt="" coords="5,5,127,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,21,127,21,127,16,159,16"/>
+</map>

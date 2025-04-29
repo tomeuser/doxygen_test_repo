@@ -1,0 +1,10 @@
+<map id="Adafruit_I2CDevice::maxBufferSize" name="Adafruit_I2CDevice::maxBufferSize">
+<area shape="rect" id="Node000001" title="How many bytes we can read in a transaction." alt="" coords="368,39,501,79"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__I2CDevice.html#afeeccb3147b2f0340c65d2c0c1ce3ea6" title="Read from I2C into a buffer from the I2C device. Cannot be more than maxBufferSize() bytes." alt="" coords="187,5,320,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="353,47,320,41,321,35,354,41"/>
+<area shape="rect" id="Node000004" href="$classAdafruit__I2CDevice.html#aa64a3c83aa776a3f383bc1df24ca1998" title="Write a buffer or two to the I2C device. Cannot be more than maxBufferSize() bytes." alt="" coords="187,71,320,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="353,76,321,82,320,77,353,71"/>
+<area shape="rect" id="Node000003" href="$classAdafruit__I2CDevice.html#af04af7e2918c873215ce949ce05ebe33" title="Write some data, then read some data from I2C into another buffer. Cannot be more than maxBufferSize(..." alt="" coords="5,39,139,79"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="172,43,139,49,138,44,171,38"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="171,79,138,73,139,68,172,74"/>
+</map>

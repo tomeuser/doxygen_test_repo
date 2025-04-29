@@ -1,0 +1,5 @@
+<map id="ExternalClIO::debounce" name="ExternalClIO::debounce">
+<area shape="rect" id="Node000001" title="Software debounce for the acknowledgment button." alt="" coords="177,5,332,31"/>
+<area shape="rect" id="Node000002" href="$classExternalClIO.html#a9f3fdcd0375ba6ad48e5839bae712ad6" title="Main loop to handle blinking and button states." alt="" coords="5,5,129,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,21,129,21,129,16,161,16"/>
+</map>

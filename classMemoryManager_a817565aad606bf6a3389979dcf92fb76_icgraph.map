@@ -1,0 +1,7 @@
+<map id="MemoryManager::readMacAdress" name="MemoryManager::readMacAdress">
+<area shape="rect" id="Node000001" title="This function reads the unique mac address from the chip and converts it into a string." alt="" coords="457,5,671,31"/>
+<area shape="rect" id="Node000002" href="$classMemoryManager.html#a3020be2c9140e37fd9ad0f3bca14fad0" title="This function reads the configuration data out of the memory. If there are no data available it retur..." alt="" coords="208,5,409,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="442,21,410,21,410,16,442,16"/>
+<area shape="rect" id="Node000003" href="$classMemoryManager.html#af19817ec69c6496ef80b0e6b04a72d3a" title="This function reads the device configuration from permanent memory. If there&#39;s no configuration avail..." alt="" coords="5,5,160,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="192,21,160,21,160,16,192,16"/>
+</map>

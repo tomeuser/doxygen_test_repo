@@ -1,0 +1,20 @@
+<map id="matrix_controller.h" name="matrix_controller.h">
+<area shape="rect" id="Node000001" title="This is the header file of the template class MatrixController declaring all variables and methods us..." alt="" coords="196,5,322,31"/>
+<area shape="rect" id="Node000002" href="$config_8h.html" title="This is the config file. It contains all class instances and imports external libraries." alt="" coords="321,153,386,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="301,37,324,54,344,78,352,97,357,117,358,152,352,152,351,118,347,98,340,80,321,58,297,41"/>
+<area shape="rect" id="Node000004" href="$matrix__controller_8hpp.html" title="This file defines all methods of the template class MatrixController which were declared in matrix_co..." alt="" coords="189,79,329,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="253,46,255,78,250,79,248,46"/>
+<area shape="rect" id="Node000005" href="$power__over__ethernet_8h.html" title="This is the header file of class power_over_ethernet.h declaring all variables and methods used by th..." alt="" coords="12,79,165,105"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="217,40,119,81,117,76,215,35"/>
+<area shape="rect" id="Node000007" href="$temp__sensor_8h.html" title="This is the header file of class temp_sensor.h declaring all variables and methods used by this class..." alt="" coords="405,79,511,105"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="308,34,425,76,423,81,306,39"/>
+<area shape="rect" id="Node000003" href="$main_8cpp.html" title="Skatch to convert MQTT messages to UART messages and reverse. Initializes an encrypted MQTT Client an..." alt="" coords="317,226,390,252"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="356,194,356,226,351,226,351,194"/>
+<area shape="poly" id="edge4_Node000004_Node000001" title=" " alt="" coords="265,64,263,31,269,31,271,63"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="149,107,321,153,320,158,148,112"/>
+<area shape="rect" id="Node000006" href="$power__over__ethernet_8cpp.html" title="This file defines all methods of class PowerOverEthernet which were declared in power_over_ethernet...." alt="" coords="5,153,172,178"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="91,120,91,152,86,152,86,120"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="429,116,373,154,370,150,426,111"/>
+<area shape="rect" id="Node000008" href="$temp__sensor_8cpp.html" title="This file defines all methods of class TempSensor which were declared in temp_sensor...." alt="" coords="411,153,531,178"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="465,119,472,152,466,153,460,120"/>
+</map>

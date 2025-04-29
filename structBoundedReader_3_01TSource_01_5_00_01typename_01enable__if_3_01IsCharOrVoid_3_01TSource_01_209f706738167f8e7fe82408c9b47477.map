@@ -1,0 +1,5 @@
+<map id="BoundedReader&lt; TSource *, typename enable_if&lt; IsCharOrVoid&lt; TSource &gt;::value &gt;::type &gt;" name="BoundedReader&lt; TSource *, typename enable_if&lt; IsCharOrVoid&lt; TSource &gt;::value &gt;::type &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,196,168,307"/>
+<area shape="rect" id="Node000002" href="$classIteratorReader.html" title=" " alt="" coords="19,5,154,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,162,89,196,84,196,84,162"/>
+</map>

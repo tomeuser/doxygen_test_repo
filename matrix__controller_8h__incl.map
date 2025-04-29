@@ -1,0 +1,35 @@
+<map id="matrix_controller.h" name="matrix_controller.h">
+<area shape="rect" id="Node000001" title="This is the header file of the template class MatrixController declaring all variables and methods us..." alt="" coords="480,5,606,31"/>
+<area shape="rect" id="Node000002" href="$light__sensor_8h.html" title="This is the header file of the template class light_sensor.h declaring all variables and methods used..." alt="" coords="279,79,380,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="508,34,381,76,379,71,506,29"/>
+<area shape="rect" id="Node000006" href="$mqtt__client_8h.html" title="This is the headerfile of the class MqttClient declaring all varibales and methods used by this class..." alt="" coords="411,153,507,178"/>
+<area shape="poly" id="edge16_Node000001_Node000006" title=" " alt="" coords="518,34,489,53,465,80,457,109,457,137,452,137,452,108,461,78,485,49,515,29"/>
+<area shape="rect" id="Node000014" href="$Adafruit__NeoPixel_8h.html" title=" " alt="" coords="475,79,611,105"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="546,31,546,63,540,63,540,31"/>
+<area shape="rect" id="Node000015" href="$matrix__controller_8hpp.html" title="This file defines all methods of the template class MatrixController which were declared in matrix_co..." alt="" coords="634,79,774,105"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="564,29,657,70,655,75,562,34"/>
+<area shape="rect" id="Node000003" href="$Adafruit__ADS1X15_8h.html" title=" " alt="" coords="57,153,197,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="296,108,177,150,175,144,294,103"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="105,226,162,252"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="315,107,164,219,160,215,312,103"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="353,103,425,142,422,147,350,108"/>
+<area shape="rect" id="Node000013" href="$light__sensor_8hpp.html" title="This file defines all methods of the template class LightSensor which were declared in light_sensor...." alt="" coords="272,153,387,178"/>
+<area shape="poly" id="edge13_Node000002_Node000013" title=" " alt="" coords="325,105,324,137,318,137,320,105"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,226,81,252"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="114,181,70,218,67,214,111,177"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="131,178,134,211,128,211,125,179"/>
+<area shape="rect" id="Node000007" href="$const_8h.html" title="Project settings." alt="" coords="187,226,302,252"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="423,181,296,224,294,218,422,176"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="326,226,384,252"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="443,181,387,220,384,215,440,177"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="408,226,510,252"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="462,179,462,211,456,211,456,179"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="534,226,624,252"/>
+<area shape="poly" id="edge10_Node000006_Node000010" title=" " alt="" coords="481,177,547,216,544,220,478,181"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="648,226,779,252"/>
+<area shape="poly" id="edge11_Node000006_Node000011" title=" " alt="" coords="503,176,656,219,655,224,501,181"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="804,226,861,252"/>
+<area shape="poly" id="edge12_Node000006_Node000012" title=" " alt="" coords="508,171,631,192,789,223,788,229,630,197,507,177"/>
+<area shape="poly" id="edge14_Node000013_Node000002" title=" " alt="" coords="334,152,336,120,341,120,339,152"/>
+<area shape="poly" id="edge18_Node000015_Node000001" title=" " alt="" coords="683,81,590,40,592,35,685,76"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="OTAStorage" name="OTAStorage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="75,5,271,275"/>
+<area shape="rect" id="Node000002" href="$classExternalOTAStorage.html" title=" " alt="" coords="5,384,153,471"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,290,95,385,90,384,122,288"/>
+<area shape="rect" id="Node000003" href="$classInternalStorageESPClass.html" title=" " alt="" coords="178,323,357,532"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,288,236,322,231,324,219,290"/>
+</map>

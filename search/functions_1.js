@@ -1,0 +1,14 @@
+var searchData=
+[
+  ['adafruit_5fads1015_0',['Adafruit_ADS1015',['../classAdafruit__ADS1015.html#ae0e4b4bedace1794cb7c5c47270cf3c5',1,'Adafruit_ADS1015']]],
+  ['adafruit_5fads1115_1',['Adafruit_ADS1115',['../classAdafruit__ADS1115.html#aea291326a16da8cab869c810039d975a',1,'Adafruit_ADS1115']]],
+  ['adafruit_5fbmp3xx_2',['Adafruit_BMP3XX',['../classAdafruit__BMP3XX.html#a0a9202db376246e4b8d192ddeed9468a',1,'Adafruit_BMP3XX']]],
+  ['adafruit_5fbusio_5fregister_3',['Adafruit_BusIO_Register',['../classAdafruit__BusIO__Register.html#a7de4a4cbb3e8cdfebac31344e8ab6c8c',1,'Adafruit_BusIO_Register::Adafruit_BusIO_Register(Adafruit_I2CDevice *i2cdevice, uint16_t reg_addr, uint8_t width=1, uint8_t byteorder=LSBFIRST, uint8_t address_width=1)'],['../classAdafruit__BusIO__Register.html#a89e57552743a5f15c99cb7aa27b3ca13',1,'Adafruit_BusIO_Register::Adafruit_BusIO_Register(Adafruit_SPIDevice *spidevice, uint16_t reg_addr, Adafruit_BusIO_SPIRegType type, uint8_t width=1, uint8_t byteorder=LSBFIRST, uint8_t address_width=1)'],['../classAdafruit__BusIO__Register.html#a300a0297429df441bc88dbb37eac1a06',1,'Adafruit_BusIO_Register::Adafruit_BusIO_Register(Adafruit_I2CDevice *i2cdevice, Adafruit_SPIDevice *spidevice, Adafruit_BusIO_SPIRegType type, uint16_t reg_addr, uint8_t width=1, uint8_t byteorder=LSBFIRST, uint8_t address_width=1)']]],
+  ['adafruit_5fbusio_5fregisterbits_4',['Adafruit_BusIO_RegisterBits',['../classAdafruit__BusIO__RegisterBits.html#a369a5c8d03df7da82f8f46f00bd73855',1,'Adafruit_BusIO_RegisterBits']]],
+  ['adafruit_5fi2cdevice_5',['Adafruit_I2CDevice',['../classAdafruit__I2CDevice.html#afea8ccedd8c77bff545c97520d8ec31c',1,'Adafruit_I2CDevice']]],
+  ['adafruit_5fina219_6',['Adafruit_INA219',['../classAdafruit__INA219.html#a407a9ddf5fec541865d1f91a7e6479d0',1,'Adafruit_INA219']]],
+  ['adafruit_5fneopixel_7',['Adafruit_NeoPixel',['../classAdafruit__NeoPixel.html#aac61dab69181d4554be8cdde40e4bce6',1,'Adafruit_NeoPixel::Adafruit_NeoPixel(uint16_t n, int16_t pin=6, neoPixelType type=NEO_GRB+NEO_KHZ800)'],['../classAdafruit__NeoPixel.html#a2a7ab8a0cedee029cd5330b638146ccc',1,'Adafruit_NeoPixel::Adafruit_NeoPixel(void)']]],
+  ['adafruit_5fspidevice_8',['Adafruit_SPIDevice',['../classAdafruit__SPIDevice.html#a3b58c1ebba22985823848654e24d1fc9',1,'Adafruit_SPIDevice::Adafruit_SPIDevice(int8_t cspin, uint32_t freq=1000000, BusIOBitOrder dataOrder=SPI_BITORDER_MSBFIRST, uint8_t dataMode=SPI_MODE0, SPIClass *theSPI=&amp;SPI)'],['../classAdafruit__SPIDevice.html#a6fe83560f80083c5e6580b5e2e6b4cc6',1,'Adafruit_SPIDevice::Adafruit_SPIDevice(int8_t cspin, int8_t sck, int8_t miso, int8_t mosi, uint32_t freq=1000000, BusIOBitOrder dataOrder=SPI_BITORDER_MSBFIRST, uint8_t dataMode=SPI_MODE0)']]],
+  ['address_9',['address',['../classAdafruit__I2CDevice.html#ae02c4691dbe893c3a5a3de478d776062',1,'Adafruit_I2CDevice']]],
+  ['advaluestolux_10',['adValuesToLux',['../classLightSensor.html#a6cd1668c3ec499ac6f0a0fe15cc692a5',1,'LightSensor']]]
+];

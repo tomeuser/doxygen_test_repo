@@ -1,0 +1,21 @@
+<map id="Adafruit_BusIO_Register::read" name="Adafruit_BusIO_Register::read">
+<area shape="rect" id="Node000001" title="Read a buffer of data from the register location." alt="" coords="562,96,727,137"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__INA219.html#a364950af5bbf554caf75c4f217d83d63" title="Gets the raw bus voltage (16&#45;bit signed integer, so +&#45;32767)" alt="" coords="278,5,514,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="600,90,559,66,513,45,478,34,480,29,515,40,561,61,602,86"/>
+<area shape="rect" id="Node000004" href="$classAdafruit__INA219.html#aa6568676cd06391f70162591aafe6d31" title="Gets the raw current value (16&#45;bit signed integer, so +&#45;32767)" alt="" coords="290,55,502,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="546,100,464,84,465,78,547,95"/>
+<area shape="rect" id="Node000006" href="$classAdafruit__INA219.html#a94e5d1e665c429dbd4e787fe82ea3137" title="Gets the raw power value (16&#45;bit signed integer, so +&#45;32767)" alt="" coords="293,104,499,130"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="546,120,499,120,499,114,546,114"/>
+<area shape="rect" id="Node000008" href="$classAdafruit__INA219.html#aa6c857c0fb1d67238d9fc7e60a44dfa6" title="Gets the raw shunt voltage (16&#45;bit signed integer, so +&#45;32767)" alt="" coords="308,154,484,194"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="547,142,484,157,483,151,546,137"/>
+<area shape="rect" id="Node000010" href="$classAdafruit__BusIO__RegisterBits.html#a868614bb793ae3c4c00b7954896213d0" title="Read 4 bytes of data from the register." alt="" coords="302,219,490,260"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="608,149,565,180,515,209,484,221,482,216,513,204,562,176,605,145"/>
+<area shape="rect" id="Node000003" href="$classAdafruit__INA219.html#ab27c5ff8681cbe04c80bc3efc840dca4" title="Gets the bus voltage in volts." alt="" coords="5,5,230,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="262,21,230,21,230,16,262,16"/>
+<area shape="rect" id="Node000005" href="$classAdafruit__INA219.html#a962c14fad67d30614fa164e25ebfc158" title="Gets the current value in mA, taking into account the config settings and current LSB." alt="" coords="12,55,223,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="275,70,223,70,223,65,275,65"/>
+<area shape="rect" id="Node000007" href="$classAdafruit__INA219.html#a610b73a256146e07c30b00714548f0ac" title="Gets the power value in mW, taking into account the config settings and current LSB." alt="" coords="13,104,222,130"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="277,120,222,120,222,114,277,114"/>
+<area shape="rect" id="Node000009" href="$classAdafruit__INA219.html#abddaac33a988562fd416cb9949d0c030" title="Gets the shunt voltage in mV (so +&#45;327mV)" alt="" coords="30,154,205,194"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="293,177,206,177,206,172,293,172"/>
+</map>

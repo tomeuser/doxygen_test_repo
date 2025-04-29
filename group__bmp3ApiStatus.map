@@ -1,0 +1,4 @@
+<map id="Sensor Status" name="Sensor Status">
+<area shape="rect" id="Node000002" href="$group__bmp3.html" title=" " alt="" coords="5,5,63,31"/>
+<area shape="rect" id="Node000001" title="Read status of the sensor." alt="" coords="111,5,214,31"/>
+</map>

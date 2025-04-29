@@ -1,0 +1,5 @@
+<map id="ZeroTerminatedRamString" name="ZeroTerminatedRamString">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,189,194"/>
+<area shape="rect" id="Node000002" href="$classStaticStringAdapter.html" title=" " alt="" coords="25,242,170,328"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,208,100,242,95,242,95,208"/>
+</map>

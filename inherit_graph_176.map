@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structVisitor.html" title=" " alt="" coords="5,42,120,68"/>
+<area shape="rect" id="Node000001" href="$classJsonSerializer.html" title=" " alt="" coords="168,13,334,38"/>
+<area shape="poly" id="edge118_Node000000_Node000001" title=" " alt="" coords="135,41,167,36,168,41,135,46"/>
+<area shape="rect" id="Node000003" href="$classMsgPackSerializer.html" title=" " alt="" coords="182,63,320,103"/>
+<area shape="poly" id="edge120_Node000000_Node000003" title=" " alt="" coords="135,63,182,70,181,75,135,68"/>
+<area shape="rect" id="Node000002" href="$classPrettyJsonSerializer.html" title=" " alt="" coords="382,5,518,46"/>
+<area shape="poly" id="edge119_Node000001_Node000002" title=" " alt="" coords="350,23,382,23,382,28,350,28"/>
+</map>

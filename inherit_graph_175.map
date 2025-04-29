@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structVisitor.html" title=" " alt="" coords="5,229,175,255"/>
+<area shape="rect" id="Node000001" href="$structComparerBase.html" title=" " alt="" coords="223,229,330,255"/>
+<area shape="poly" id="edge108_Node000000_Node000001" title=" " alt="" coords="190,240,222,240,222,245,190,245"/>
+<area shape="rect" id="Node000002" href="$structArrayComparer.html" title=" " alt="" coords="412,5,519,31"/>
+<area shape="poly" id="edge109_Node000001_Node000002" title=" " alt="" coords="282,214,293,175,313,129,340,82,376,41,393,31,411,24,413,29,395,36,380,46,344,85,317,131,298,177,287,215"/>
+<area shape="rect" id="Node000003" href="$structComparer_3_01T_00_01typename_01enable__if_3_01IsString_3_01T_01_4_1_1value_01_4_1_1type_01_4.html" title=" " alt="" coords="386,56,545,111"/>
+<area shape="poly" id="edge110_Node000001_Node000003" title=" " alt="" coords="292,215,328,167,351,142,376,120,392,110,395,114,380,124,354,146,332,171,296,218"/>
+<area shape="rect" id="Node000004" href="$structComparer_3_01T_00_01typename_01enable__if_3_01is__integral_3_01T_01_4_1_1value_7_7is__floa3a92e9d70c77993032caf87b15f2e90f.html" title=" " alt="" coords="378,135,553,206"/>
+<area shape="poly" id="edge111_Node000001_Node000004" title=" " alt="" coords="326,221,376,201,378,206,328,226"/>
+<area shape="rect" id="Node000005" href="$structNullComparer.html" title=" " alt="" coords="416,229,516,255"/>
+<area shape="poly" id="edge112_Node000001_Node000005" title=" " alt="" coords="345,240,415,240,415,245,345,245"/>
+<area shape="rect" id="Node000007" href="$structObjectComparer.html" title=" " alt="" coords="408,279,523,304"/>
+<area shape="poly" id="edge114_Node000001_Node000007" title=" " alt="" coords="344,257,414,275,413,281,343,262"/>
+<area shape="rect" id="Node000008" href="$structRawComparer.html" title=" " alt="" coords="414,328,517,354"/>
+<area shape="poly" id="edge115_Node000001_Node000008" title=" " alt="" coords="305,263,339,290,379,314,414,328,412,333,377,319,336,294,301,267"/>
+<area shape="rect" id="Node000009" href="$structVariantComparer.html" title=" " alt="" coords="406,377,525,403"/>
+<area shape="poly" id="edge116_Node000001_Node000009" title=" " alt="" coords="294,267,329,317,353,342,379,364,407,377,405,382,377,368,349,346,325,320,290,270"/>
+<area shape="rect" id="Node000006" href="$structComparer_3_01decltype_07nullptr_08_00_01void_01_4.html" title=" " alt="" coords="647,222,784,262"/>
+<area shape="poly" id="edge113_Node000005_Node000006" title=" " alt="" coords="532,240,647,240,647,245,532,245"/>
+<area shape="rect" id="Node000010" href="$structComparer_3_01T_00_01typename_01enable__if_3_01is__convertible_3_01T_00_01ArduinoJson_1_1Js9a83c904d88e0c2fa9a99e43ac2747d4.html" title=" " alt="" coords="601,355,830,426"/>
+<area shape="poly" id="edge117_Node000009_Node000010" title=" " alt="" coords="540,388,601,388,601,393,540,393"/>
+</map>

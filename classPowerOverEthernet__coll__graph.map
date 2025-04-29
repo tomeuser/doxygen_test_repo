@@ -1,0 +1,27 @@
+<map id="PowerOverEthernet" name="PowerOverEthernet">
+<area shape="rect" id="Node000001" title=" " alt="" coords="193,4501,375,4628"/>
+<area shape="rect" id="Node000002" href="$classMqttClient.html" title="This class represents a mqtt client." alt="" coords="9,1857,223,2716"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,2716,78,2779,60,3039,45,3241,41,3338,41,3443,46,3562,57,3702,72,3914,86,4080,98,4158,119,4240,149,4331,192,4436,221,4486,216,4488,187,4439,144,4333,114,4242,93,4159,80,4080,66,3914,51,3702,41,3562,36,3443,36,3338,40,3241,54,3038,72,2779,76,2715"/>
+<area shape="rect" id="Node000007" href="$classMatrixController.html" title=" " alt="" coords="201,3726,367,4438"/>
+<area shape="poly" id="edge13_Node000007_Node000002" title=" " alt="" coords="88,2716,83,2925,86,3153,101,3388,113,3504,130,3618,159,3744,198,3865,193,3867,154,3745,125,3618,108,3505,95,3388,81,3153,78,2925,83,2716"/>
+<area shape="rect" id="Node000009" href="$classLightSensor.html" title=" " alt="" coords="380,2843,554,3554"/>
+<area shape="poly" id="edge12_Node000009_Node000002" title=" " alt="" coords="226,2469,302,2618,339,2698,371,2778,387,2826,382,2827,366,2780,334,2700,297,2620,221,2471"/>
+<area shape="rect" id="Node000003" href="$classPubSubClient.html" title=" " alt="" coords="5,399,227,1807"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="119,1822,119,1857,114,1857,114,1822"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="98,138,135,204"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="119,218,119,399,114,399,114,218"/>
+<area shape="rect" id="Node000005" href="$classPCA95x5_1_1PCA95x5.html" title=" " alt="" coords="509,3876,710,4288"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="520,4289,463,4387,396,4478,384,4491,380,4487,392,4475,458,4384,515,4286"/>
+<area shape="rect" id="Node000006" href="$unionPCA95x5_1_1PCA95x5_1_1Ports.html" title=" " alt="" coords="579,3148,768,3249"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="673,3249,628,3859,623,3859,667,3249"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="287,4438,287,4484,282,4484,282,4438"/>
+<area shape="rect" id="Node000008" href="$classAdafruit__NeoPixel.html" title="Class that stores state and functions for interacting with Adafruit NeoPixels and compatible devices." alt="" coords="213,2779,356,3618"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="287,3633,287,3726,282,3726,282,3633"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="396,3555,364,3710,359,3709,391,3554"/>
+<area shape="rect" id="Node000010" href="$classAdafruit__ADS1015.html" title="Sensor driver for the Adafruit ADS1015 ADC breakout." alt="" coords="398,2253,536,2320"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="470,2319,470,2826,464,2826,464,2319"/>
+<area shape="rect" id="Node000011" href="$classAdafruit__ADS1X15.html" title="Sensor driver for the Adafruit ADS1X15 ADC breakouts." alt="" coords="365,847,569,1360"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="470,1374,470,2253,464,2253,464,1374"/>
+<area shape="rect" id="Node000012" href="$classAdafruit__I2CDevice.html" title="&lt; The class which defines how we will talk to this device over I2C" alt="" coords="395,5,539,336"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="470,336,470,830,464,830,464,336"/>
+</map>

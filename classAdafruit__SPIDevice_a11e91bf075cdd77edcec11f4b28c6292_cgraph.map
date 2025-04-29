@@ -1,0 +1,7 @@
+<map id="Adafruit_SPIDevice::beginTransactionWithAssertingCS" name="Adafruit_SPIDevice::beginTransactionWithAssertingCS">
+<area shape="rect" id="Node000001" title="Write a buffer or two to the SPI device, with transaction management." alt="" coords="5,39,231,79"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__SPIDevice.html#acde87a3312ddc729c259b1b45fe71d82" title="Manually begin a transaction (calls beginTransaction if hardware SPI)" alt="" coords="279,5,414,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,40,263,35,264,40,231,45"/>
+<area shape="rect" id="Node000003" href="$classAdafruit__SPIDevice.html#a0e9f91766b66b5f34ffd799525d68eda" title="Assert/Deassert the CS pin if it is defined." alt="" coords="279,71,414,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,72,264,77,263,82,230,77"/>
+</map>

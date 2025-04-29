@@ -1,0 +1,23 @@
+<map id="MatrixController::begin" name="MatrixController::begin">
+<area shape="rect" id="Node000001" title="Initializes the matrix and sets up default settings for all chambers." alt="" coords="5,102,154,128"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__NeoPixel.html#ac1cb16509be644232ce0e28d250083da" title="Configure NeoPixel pin for output." alt="" coords="230,8,362,49"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,99,201,58,216,52,218,57,203,63,109,104"/>
+<area shape="rect" id="Node000003" href="$classMatrixController.html#a6eba302f85757a21bbc32b3519a10848" title="Checks if the color is within the defined brightness limits." alt="" coords="202,73,390,98"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,102,186,98,187,103,154,108"/>
+<area shape="rect" id="Node000008" href="$classMatrixController.html#a627272c3ed795f8ce010551f1afc74ec" title="Sets the color for a specific chamber in the matrix." alt="" coords="213,126,378,152"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="154,121,198,125,197,131,153,126"/>
+<area shape="rect" id="Node000010" href="$classAdafruit__NeoPixel.html#a4bcda7a15591065570d3598cbf970be7" title="Transmit pixel data in RAM to NeoPixels." alt="" coords="215,184,377,209"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="113,126,203,162,241,176,239,181,201,167,111,131"/>
+<area shape="rect" id="Node000004" href="$classMatrixController.html#ad39271757a3ac3c229d9d496ebffe519" title="Extracts the brightness from an RGB color." alt="" coords="448,5,604,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="348,70,432,47,433,53,349,75"/>
+<area shape="rect" id="Node000005" href="$classMatrixController.html#a12bf978ab7fd87a9b800470a6f51220a" title="Scales the brightness of an RGB color using the HSV model." alt="" coords="438,70,614,96"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="390,82,423,82,423,87,390,87"/>
+<area shape="rect" id="Node000006" href="$classMatrixController.html#aab6a0b6b369f2cc50811d2969ecf2ece" title="Converts HSV values to RGB values." alt="" coords="662,46,826,72"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="614,71,646,67,647,72,615,76"/>
+<area shape="rect" id="Node000007" href="$classMatrixController.html#a300d1950cc56dc183add7edf85df0430" title="Converts RGB values to HSV values." alt="" coords="662,96,826,121"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="615,91,647,94,646,100,614,96"/>
+<area shape="rect" id="Node000009" href="$classAdafruit__NeoPixel.html#ab8763ccc6f9a090df1f753905fd5561e" title="Set a pixel&#39;s color using separate red, green and blue components. If using RGBW pixels,..." alt="" coords="460,120,592,161"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="379,137,445,137,445,143,379,142"/>
+<area shape="rect" id="Node000011" href="$classAdafruit__NeoPixel.html#a9e900a60b0ac2b43b99309bb118b929e" title="Check whether a call to show() will start sending data immediately or will &#39;block&#39; for a required int..." alt="" coords="460,185,592,226"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="378,197,445,200,445,205,377,202"/>
+</map>

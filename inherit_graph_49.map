@@ -1,0 +1,33 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,381,153,407"/>
+<area shape="rect" id="Node000001" href="$structConverter_3_01JsonArray_01_4.html" title=" " alt="" coords="223,5,380,31"/>
+<area shape="poly" id="edge25_Node000000_Node000001" title=" " alt="" coords="79,366,85,299,104,211,119,165,139,119,166,77,199,40,221,26,224,31,202,44,170,80,144,122,124,167,109,213,91,300,84,366"/>
+<area shape="rect" id="Node000002" href="$structConverter_3_01JsonArrayConst_01_4.html" title=" " alt="" coords="206,55,398,80"/>
+<area shape="poly" id="edge26_Node000000_Node000002" title=" " alt="" coords="80,365,90,307,110,233,126,194,145,155,170,120,199,89,215,79,218,83,202,94,174,124,150,158,131,196,115,234,95,308,86,366"/>
+<area shape="rect" id="Node000003" href="$structConverter_3_01JsonObject_01_4.html" title=" " alt="" coords="219,104,384,130"/>
+<area shape="poly" id="edge27_Node000000_Node000003" title=" " alt="" coords="83,366,95,316,117,255,151,192,173,164,199,139,217,128,220,132,202,143,177,167,156,195,122,257,100,318,88,367"/>
+<area shape="rect" id="Node000004" href="$structConverter_3_01JsonObjectConst_01_4.html" title=" " alt="" coords="202,153,402,179"/>
+<area shape="poly" id="edge28_Node000000_Node000004" title=" " alt="" coords="86,365,102,325,125,277,157,229,199,188,218,177,221,182,202,192,162,232,130,280,106,328,91,367"/>
+<area shape="rect" id="Node000005" href="$structConverter_3_01JsonString_01_4.html" title=" " alt="" coords="221,203,382,228"/>
+<area shape="poly" id="edge29_Node000000_Node000005" title=" " alt="" coords="91,366,133,301,164,266,199,237,221,226,223,231,202,242,167,270,137,304,96,369"/>
+<area shape="rect" id="Node000006" href="$structConverter_3_01JsonVariant_01_4.html" title=" " alt="" coords="218,252,386,278"/>
+<area shape="poly" id="edge30_Node000000_Node000006" title=" " alt="" coords="100,368,143,326,170,304,199,286,226,276,228,281,202,291,173,309,147,330,104,371"/>
+<area shape="rect" id="Node000007" href="$structConverter_3_01JsonVariantConst_01_4.html" title=" " alt="" coords="201,301,403,327"/>
+<area shape="poly" id="edge31_Node000000_Node000007" title=" " alt="" coords="118,372,200,337,240,325,241,330,202,342,121,377"/>
+<area shape="rect" id="Node000008" href="$structConverter_3_01SerializedValue_3_01T_01_4_00_01typename_01detail_1_1enable__if_3_9detail_1_a5171fe868f6cb4888adad70c627e380.html" title=" " alt="" coords="213,351,390,437"/>
+<area shape="poly" id="edge32_Node000000_Node000008" title=" " alt="" coords="168,392,213,392,213,397,168,397"/>
+<area shape="rect" id="Node000009" href="$structConverter_3_01SerializedValue_3_01const_01char_01_5_01_4_01_4.html" title=" " alt="" coords="213,460,390,501"/>
+<area shape="poly" id="edge33_Node000000_Node000009" title=" " alt="" coords="122,411,202,446,232,457,230,462,200,451,120,416"/>
+<area shape="rect" id="Node000010" href="$structConverter_3_01T_00_01typename_01detail_1_1enable__if_3_01detail_1_1is__enum_3_01T_01_4_1_1value_01_4_1_1type_01_4.html" title=" " alt="" coords="204,525,400,581"/>
+<area shape="poly" id="edge34_Node000000_Node000010" title=" " alt="" coords="102,417,145,464,202,511,222,522,220,527,199,515,142,468,98,421"/>
+<area shape="rect" id="Node000011" href="$structConverter_3_01T_00_01typename_01detail_1_1enable__if_3_01detail_1_1is__floating__point_3_06090e740ea39ff613b30bad657ed760e.html" title=" " alt="" coords="222,604,382,675"/>
+<area shape="poly" id="edge35_Node000000_Node000011" title=" " alt="" coords="93,421,110,458,134,503,165,550,202,591,223,606,220,611,199,595,161,553,129,506,105,460,88,423"/>
+<area shape="rect" id="Node000012" href="$structConverter_3_01T_00_01typename_01detail_1_1enable__if_3_01detail_1_1is__integral_3_01T_01_4cac5aae8c7fbe0293de919b177ee3728.html" title=" " alt="" coords="206,698,398,799"/>
+<area shape="poly" id="edge36_Node000000_Node000012" title=" " alt="" coords="88,422,102,475,124,544,158,617,179,652,203,684,214,696,210,700,199,688,174,655,153,620,120,545,97,476,83,423"/>
+<area shape="rect" id="Node000013" href="$structConverter_3_01bool_01_4.html" title=" " alt="" coords="240,823,364,848"/>
+<area shape="poly" id="edge37_Node000000_Node000013" title=" " alt="" coords="82,422,85,500,90,550,100,604,115,660,136,715,165,765,202,810,220,822,241,829,239,834,218,826,199,813,161,768,132,717,110,662,95,605,85,551,80,500,77,423"/>
+<area shape="rect" id="Node000014" href="$structConverter_3_01const_01char_01_5_01_4.html" title=" " alt="" coords="218,872,386,898"/>
+<area shape="poly" id="edge38_Node000000_Node000014" title=" " alt="" coords="86,422,101,520,125,652,141,718,160,778,180,826,203,859,219,871,216,875,199,863,175,829,155,780,136,719,120,653,95,521,81,423"/>
+<area shape="rect" id="Node000015" href="$structConverter_3_01decltype_07nullptr_08_4.html" title=" " alt="" coords="234,922,370,962"/>
+<area shape="poly" id="edge39_Node000000_Node000015" title=" " alt="" coords="86,422,99,529,123,675,139,749,158,816,179,871,203,908,217,920,234,929,232,933,214,925,199,912,174,873,153,818,134,750,118,676,94,530,81,423"/>
+</map>

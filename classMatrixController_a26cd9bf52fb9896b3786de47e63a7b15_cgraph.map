@@ -1,0 +1,11 @@
+<map id="MatrixController::blinkLoop" name="MatrixController::blinkLoop">
+<area shape="rect" id="Node000001" title="Handles the blink effect for the matrix." alt="" coords="5,46,179,72"/>
+<area shape="rect" id="Node000002" href="$classMatrixController.html#a627272c3ed795f8ce010551f1afc74ec" title="Sets the color for a specific chamber in the matrix." alt="" coords="227,17,392,42"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,45,211,40,212,46,179,50"/>
+<area shape="rect" id="Node000004" href="$classAdafruit__NeoPixel.html#a4bcda7a15591065570d3598cbf970be7" title="Transmit pixel data in RAM to NeoPixels." alt="" coords="228,70,390,96"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="179,66,213,70,212,75,178,71"/>
+<area shape="rect" id="Node000003" href="$classAdafruit__NeoPixel.html#ab8763ccc6f9a090df1f753905fd5561e" title="Set a pixel&#39;s color using separate red, green and blue components. If using RGBW pixels,..." alt="" coords="440,5,571,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="392,25,425,25,425,30,392,31"/>
+<area shape="rect" id="Node000005" href="$classAdafruit__NeoPixel.html#a9e900a60b0ac2b43b99309bb118b929e" title="Check whether a call to show() will start sending data immediately or will &#39;block&#39; for a required int..." alt="" coords="440,71,571,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="391,84,425,85,424,90,391,89"/>
+</map>

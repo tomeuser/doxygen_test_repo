@@ -1,0 +1,11 @@
+<map id="Adafruit_BusIO_Register::width" name="Adafruit_BusIO_Register::width">
+<area shape="rect" id="Node000001" title="The width of the register data, helpful for doing calculations." alt="" coords="225,104,390,145"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__BusIO__Register.html#a300a0297429df441bc88dbb37eac1a06" title="Create a register we access over an I2C or SPI Device. This is a handy function because we can pass i..." alt="" coords="5,5,177,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="253,99,176,61,146,49,149,44,178,57,255,94"/>
+<area shape="rect" id="Node000003" href="$classAdafruit__BusIO__Register.html#a7de4a4cbb3e8cdfebac31344e8ab6c8c" title="Create a register we access over an I2C Device (which defines the bus and address)" alt="" coords="5,71,177,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,112,177,107,178,102,210,107"/>
+<area shape="rect" id="Node000004" href="$classAdafruit__BusIO__Register.html#a89e57552743a5f15c99cb7aa27b3ca13" title="Create a register we access over an SPI Device (which defines the bus and CS pin)" alt="" coords="5,136,177,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="210,141,178,146,177,141,209,136"/>
+<area shape="rect" id="Node000005" href="$classAdafruit__BusIO__Register.html#a478ae4ca787304ead47a56994fbdb840" title="Set the default width of data." alt="" coords="8,201,174,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="254,154,178,191,148,203,146,198,176,186,252,149"/>
+</map>

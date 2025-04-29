@@ -1,0 +1,11 @@
+<map id="BMP3" name="BMP3">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,179,63,204"/>
+<area shape="rect" id="Node000006" href="$group__bmp3ApiData.html" title="Get Sensor data." alt="" coords="120,5,212,31"/>
+<area shape="rect" id="Node000008" href="$group__bmp3ApiFIFO.html" title="FIFO operations of the sensor." alt="" coords="141,55,192,80"/>
+<area shape="rect" id="Node000002" href="$group__bmp3ApiInit.html" title="Initialize the sensor and device structure." alt="" coords="122,104,211,130"/>
+<area shape="rect" id="Node000005" href="$group__bmp3ApiPowermode.html" title="Set / Get power mode of the sensor." alt="" coords="120,153,213,179"/>
+<area shape="rect" id="Node000007" href="$group__bmp3ApiRegs.html" title="Read / Write data to the given register address." alt="" coords="128,203,204,228"/>
+<area shape="rect" id="Node000004" href="$group__bmp3ApiSensorS.html" title="Get / Set sensor settings." alt="" coords="111,252,222,278"/>
+<area shape="rect" id="Node000003" href="$group__bmp3ApiSoftReset.html" title="Perform soft reset of the sensor." alt="" coords="128,301,205,327"/>
+<area shape="rect" id="Node000009" href="$group__bmp3ApiStatus.html" title="Read status of the sensor." alt="" coords="115,351,218,376"/>
+</map>

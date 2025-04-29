@@ -1,0 +1,23 @@
+<map id="ComparerBase" name="ComparerBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="505,282,602,349"/>
+<area shape="rect" id="Node000003" href="$structArrayComparer.html" title=" " alt="" coords="5,488,123,575"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="491,325,400,335,296,350,200,372,163,385,137,399,116,418,100,441,78,490,73,488,96,438,112,415,133,395,161,380,199,367,295,345,399,330,490,320"/>
+<area shape="rect" id="Node000004" href="$structComparer_3_01T_00_01typename_01enable__if_3_01IsString_3_01T_01_4_1_1value_01_4_1_1type_01_4.html" title=" " alt="" coords="147,463,296,600"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="491,328,448,337,400,352,353,372,310,399,280,429,255,465,251,462,275,426,307,395,351,367,399,347,446,332,490,323"/>
+<area shape="rect" id="Node000005" href="$structComparer_3_01T_00_01typename_01enable__if_3_01is__integral_3_01T_01_4_1_1value_7_7is__floa3a92e9d70c77993032caf87b15f2e90f.html" title=" " alt="" coords="321,435,485,628"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="524,362,499,398,471,437,467,434,494,395,520,359"/>
+<area shape="rect" id="Node000006" href="$structNullComparer.html" title=" " alt="" coords="509,498,598,565"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="556,364,556,499,551,499,551,364"/>
+<area shape="rect" id="Node000008" href="$structObjectComparer.html" title=" " alt="" coords="623,488,749,575"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="589,359,613,395,666,487,662,490,609,398,584,362"/>
+<area shape="rect" id="Node000009" href="$structRawComparer.html" title=" " alt="" coords="773,478,887,585"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="617,326,691,351,728,370,762,395,794,434,815,477,811,479,789,437,758,399,726,375,689,356,616,331"/>
+<area shape="rect" id="Node000010" href="$structVariantComparer.html" title=" " alt="" coords="910,397,1061,666"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="617,315,680,320,754,334,830,357,867,374,901,394,912,404,909,408,897,399,864,379,828,362,753,339,680,326,616,320"/>
+<area shape="rect" id="Node000002" href="$structVisitor.html" title=" " alt="" coords="474,5,633,234"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="556,249,556,283,551,283,551,249"/>
+<area shape="rect" id="Node000007" href="$structComparer_3_01decltype_07nullptr_08_00_01void_01_4.html" title=" " alt="" coords="491,729,616,811"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="556,580,556,730,551,730,551,580"/>
+<area shape="rect" id="Node000011" href="$structComparer_3_01T_00_01typename_01enable__if_3_01is__convertible_3_01T_00_01ArduinoJson_1_1Js9a83c904d88e0c2fa9a99e43ac2747d4.html" title=" " alt="" coords="877,714,1094,826"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="988,681,988,715,983,715,983,681"/>
+</map>

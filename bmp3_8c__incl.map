@@ -1,0 +1,11 @@
+<map id="bmp3.c" name="bmp3.c">
+<area shape="rect" id="Node000001" title="Sensor driver for BMP3 sensor." alt="" coords="49,5,113,31"/>
+<area shape="rect" id="Node000002" href="$bmp3_8h.html" title=" " alt="" coords="49,79,113,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,31,84,63,78,63,78,31"/>
+<area shape="rect" id="Node000003" href="$bmp3__defs_8h.html" title="Sensor driver for BMP3 sensor." alt="" coords="33,153,129,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="84,105,84,137,78,137,78,105"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,226,69,252"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="76,180,55,214,50,211,71,177"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="93,226,160,252"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="91,177,113,212,108,215,86,180"/>
+</map>

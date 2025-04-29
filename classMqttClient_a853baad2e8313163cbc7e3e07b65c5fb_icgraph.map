@@ -1,0 +1,5 @@
+<map id="MqttClient::_checkNetworkConnection" name="MqttClient::_checkNetworkConnection">
+<area shape="rect" id="Node000001" title="This function checks if a network connection is available." alt="" coords="164,5,341,46"/>
+<area shape="rect" id="Node000002" href="$classMqttClient.html#a8c05869292d6f7c07b06ed839dcf187d" title="This function checks the network connection, intializes the mqtt server connection and processes outg..." alt="" coords="5,13,116,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,28,116,28,116,23,148,23"/>
+</map>

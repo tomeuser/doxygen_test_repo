@@ -1,0 +1,5 @@
+<map id="Adafruit_BMP3XX::readPressure" name="Adafruit_BMP3XX::readPressure">
+<area shape="rect" id="Node000001" title="Performs a reading and returns the barometric pressure." alt="" coords="256,5,466,31"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__BMP3XX.html#a7c7c23f9fdd50c0c17b2f3d9495fc262" title="Calculates the altitude (in meters)." alt="" coords="5,5,208,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,21,208,21,208,16,240,16"/>
+</map>

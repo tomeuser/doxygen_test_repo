@@ -1,0 +1,12 @@
+<map id="Adafruit_SPIDevice::transfer" name="Adafruit_SPIDevice::transfer">
+<area shape="rect" id="Node000001" title="Transfer (send/receive) one byte over hard/soft SPI, without transaction management." alt="" coords="189,104,324,145"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="286,91,275,85,256,83,239,85,229,89,225,95,226,103,221,104,220,94,225,85,238,79,256,77,276,80,288,86"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__SPIDevice.html#a5c4fce15c92a0210c0872a827f239ab1" title="Read from SPI into a buffer from the SPI device, with transaction management." alt="" coords="5,5,141,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,98,139,61,115,49,118,44,142,57,208,94"/>
+<area shape="rect" id="Node000003" href="$classAdafruit__SPIDevice.html#a1c984896fcc5d009511ce37a659fdb2e" title="Write a buffer or two to the SPI device, with transaction management." alt="" coords="5,71,141,111"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="173,112,140,106,141,101,174,107"/>
+<area shape="rect" id="Node000004" href="$classAdafruit__SPIDevice.html#a808c81bc4b9e42d064b9f590a1f6b1bd" title="Write some data and read some data at the same time from SPI into the same buffer,..." alt="" coords="5,136,141,177"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="174,141,141,147,140,142,173,136"/>
+<area shape="rect" id="Node000005" href="$classAdafruit__SPIDevice.html#a9cc3386cab3750aa18bbf3918261fc54" title="Write some data, then read some data from SPI into another buffer, with transaction management...." alt="" coords="5,201,141,242"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="207,155,142,191,118,203,115,198,139,186,204,150"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="MqttClient::_checkNetworkConnection" name="MqttClient::_checkNetworkConnection">
+<area shape="rect" id="Node000001" title="This function checks if a network connection is available." alt="" coords="5,35,183,75"/>
+<area shape="rect" id="Node000002" href="$classMqttClient.html#aefd0ab5a4e6616b1ab016b2be7b2f624" title="This function builds the MQTT server adress using the local network adress + 1." alt="" coords="231,5,400,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,41,215,36,216,42,184,46"/>
+<area shape="rect" id="Node000003" href="$classMqttClient.html#aa3638bac052a0bc3a5c96b059b174e2f" title="This function reads the local MAC adress and converts it into a string." alt="" coords="231,70,401,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,64,216,68,215,73,183,69"/>
+</map>

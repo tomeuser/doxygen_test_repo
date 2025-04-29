@@ -1,0 +1,27 @@
+<map id="light_sensor.hpp" name="light_sensor.hpp">
+<area shape="rect" id="Node000001" title="This file defines all methods of the template class LightSensor which were declared in light_sensor...." alt="" coords="139,5,254,31"/>
+<area shape="rect" id="Node000002" href="$light__sensor_8h.html" title="This is the header file of the template class light_sensor.h declaring all variables and methods used..." alt="" coords="146,79,247,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,31,190,64,185,63,187,31"/>
+<area shape="poly" id="edge13_Node000002_Node000001" title=" " alt="" coords="201,78,202,46,208,46,206,79"/>
+<area shape="rect" id="Node000003" href="$Adafruit__ADS1X15_8h.html" title=" " alt="" coords="18,153,158,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="179,107,121,146,118,141,177,103"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="105,226,162,252"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="196,106,188,139,173,179,153,215,149,212,169,177,183,138,191,104"/>
+<area shape="rect" id="Node000006" href="$mqtt__client_8h.html" title="This is the headerfile of the class MqttClient declaring all varibales and methods used by this class..." alt="" coords="411,153,507,178"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="242,103,401,146,399,151,240,108"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,226,81,252"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="83,180,61,215,56,212,79,177"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="98,177,120,212,116,215,94,180"/>
+<area shape="rect" id="Node000007" href="$const_8h.html" title="Project settings." alt="" coords="187,226,302,252"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="423,181,296,224,294,218,422,176"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="326,226,384,252"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="443,181,387,220,384,215,440,177"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="408,226,510,252"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="462,179,462,211,456,211,456,179"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="534,226,624,252"/>
+<area shape="poly" id="edge10_Node000006_Node000010" title=" " alt="" coords="481,177,547,216,544,220,478,181"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="648,226,779,252"/>
+<area shape="poly" id="edge11_Node000006_Node000011" title=" " alt="" coords="503,176,656,219,655,224,501,181"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="804,226,861,252"/>
+<area shape="poly" id="edge12_Node000006_Node000012" title=" " alt="" coords="508,171,631,192,789,223,788,229,630,197,507,177"/>
+</map>

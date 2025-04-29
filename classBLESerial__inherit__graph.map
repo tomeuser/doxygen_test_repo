@@ -1,0 +1,9 @@
+<map id="BLESerial" name="BLESerial">
+<area shape="rect" id="Node000001" title=" " alt="" coords="27,120,174,938"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,99,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="54,87,56,120,51,120,49,87"/>
+<area shape="poly" id="edge3_Node000001_Node000002" title=" " alt="" coords="65,86,70,119,64,120,60,87"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="123,5,176,72"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,87,137,120,132,119,137,86"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="153,87,151,120,146,120,148,87"/>
+</map>

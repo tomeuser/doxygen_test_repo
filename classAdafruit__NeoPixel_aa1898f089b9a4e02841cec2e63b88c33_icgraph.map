@@ -1,0 +1,9 @@
+<map id="Adafruit_NeoPixel::setPin" name="Adafruit_NeoPixel::setPin">
+<area shape="rect" id="Node000001" title="Set/change the NeoPixel output pin number. Previous pin, if any, is set to INPUT and the new pin is s..." alt="" coords="502,41,633,82"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__NeoPixel.html#aac61dab69181d4554be8cdde40e4bce6" title="NeoPixel constructor when length, pin and pixel type are known at compile&#45;time." alt="" coords="323,41,454,82"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="487,64,454,64,454,59,487,59"/>
+<area shape="rect" id="Node000003" href="$classMatrixController.html#af843402c0281f89048c665ba06cf644a" title="Constructor to initialize the LED matrix." alt="" coords="64,5,216,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="307,53,216,39,217,34,308,47"/>
+<area shape="rect" id="Node000004" href="$classMatrixController.html#aa7de9d30fb788ed47ba3f375117d3c7f" title=" " alt="" coords="5,70,275,126"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="308,76,275,81,275,75,307,71"/>
+</map>

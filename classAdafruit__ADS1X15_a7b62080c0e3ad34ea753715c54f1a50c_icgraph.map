@@ -1,0 +1,17 @@
+<map id="Adafruit_ADS1X15::writeRegister" name="Adafruit_ADS1X15::writeRegister">
+<area shape="rect" id="Node000001" title="Writes 16&#45;bits to the specified destination register." alt="" coords="526,173,738,198"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__ADS1X15.html#a369aeece7ca9a6fb254b4330876bb573" title="Non&#45;blocking start conversion function." alt="" coords="242,144,478,169"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="510,175,478,172,479,166,511,170"/>
+<area shape="rect" id="Node000008" href="$classAdafruit__ADS1X15.html#acbf5ddcd0ce886b5444150f1987089d9" title="Sets up the comparator to operate in basic mode, causing the ALERT/RDY pin to assert (go from high to..." alt="" coords="245,193,474,234"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="510,201,475,205,475,199,510,196"/>
+<area shape="rect" id="Node000003" href="$classAdafruit__ADS1X15.html#a9451025a1d57b0d01eed5e5cbb3d9249" title="Reads the conversion results, measuring the voltage difference between the P (AIN0) and N (AIN1) inpu..." alt="" coords="5,5,194,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="325,137,264,100,193,61,163,49,165,44,195,57,267,95,328,133"/>
+<area shape="rect" id="Node000004" href="$classAdafruit__ADS1X15.html#a07016074440ba793636633da32a3f30d" title="Reads the conversion results, measuring the voltage difference between the P (AIN0) and N (AIN3) inpu..." alt="" coords="5,71,194,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="290,142,183,115,184,109,292,137"/>
+<area shape="rect" id="Node000005" href="$classAdafruit__ADS1X15.html#a7b727524444305319aa60c21b1a58239" title="Reads the conversion results, measuring the voltage difference between the P (AIN1) and N (AIN3) inpu..." alt="" coords="5,136,194,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="226,159,194,159,194,154,226,154"/>
+<area shape="rect" id="Node000006" href="$classAdafruit__ADS1X15.html#abbc2117832a544d26fe50129a53dcf33" title="Reads the conversion results, measuring the voltage difference between the P (AIN2) and N (AIN3) inpu..." alt="" coords="5,201,194,242"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="279,176,242,184,172,203,170,198,241,179,277,170"/>
+<area shape="rect" id="Node000007" href="$classAdafruit__ADS1X15.html#a9048c868e4904071b83c74b224918fc8" title="Gets a single&#45;ended ADC reading from the specified channel." alt="" coords="5,267,194,307"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="252,178,243,184,227,200,220,218,212,237,195,256,175,268,172,264,192,252,207,234,215,216,223,197,240,180,250,174"/>
+</map>

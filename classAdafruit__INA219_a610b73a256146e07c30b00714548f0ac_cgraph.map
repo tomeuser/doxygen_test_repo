@@ -1,0 +1,9 @@
+<map id="Adafruit_INA219::getPower_mW" name="Adafruit_INA219::getPower_mW">
+<area shape="rect" id="Node000001" title="Gets the power value in mW, taking into account the config settings and current LSB." alt="" coords="5,46,214,72"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__INA219.html#a94e5d1e665c429dbd4e787fe82ea3137" title="Gets the raw power value (16&#45;bit signed integer, so +&#45;32767)" alt="" coords="262,46,468,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,56,246,56,246,62,214,62"/>
+<area shape="rect" id="Node000003" href="$classAdafruit__BusIO__Register.html#a2b48e23dacbb7cffc0eb07dcebcfba6f" title="Read a buffer of data from the register location." alt="" coords="516,5,681,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="459,43,500,37,501,42,460,48"/>
+<area shape="rect" id="Node000004" href="$classAdafruit__BusIO__Register.html#aa418dced5301a1d8c1776a1941c8bc64" title="Write a buffer of data to the register location." alt="" coords="516,71,681,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="464,70,501,75,500,80,463,75"/>
+</map>

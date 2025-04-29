@@ -1,0 +1,18 @@
+<map id="Adafruit_BMP3XX::readAltitude" name="Adafruit_BMP3XX::readAltitude">
+<area shape="rect" id="Node000001" title="Calculates the altitude (in meters)." alt="" coords="5,55,208,80"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__BMP3XX.html#a59155a6264bd91e704852e2bd45b96b1" title="Performs a reading and returns the barometric pressure." alt="" coords="256,55,466,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,65,240,65,240,70,208,70"/>
+<area shape="rect" id="Node000003" href="$classAdafruit__BMP3XX.html#abfb33a666d7fa5d2bb36e701f41e41fe" title="Perform a reading in blocking mode." alt="" coords="514,47,691,88"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="466,65,498,65,498,70,466,70"/>
+<area shape="rect" id="Node000004" href="$bmp3_8c.html#a8b7c253abd6cd44aa260578a10395697" title="This API reads the pressure, temperature or both data from the sensor, compensates the data and store..." alt="" coords="965,5,1121,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="691,47,739,40,848,28,949,20,949,26,848,33,740,45,692,52"/>
+<area shape="rect" id="Node000006" href="$bmp3_8c.html#aad480e8293520382c77e0b711241d964" title="This API sets the power mode of the sensor." alt="" coords="759,55,897,80"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="691,65,743,65,743,70,691,70"/>
+<area shape="rect" id="Node000008" href="$bmp3_8c.html#a2748517d2685101bafc1c2bdf813c391" title="This API sets the power control(pressure enable andtemperature enable), over sampling,..." alt="" coords="739,104,917,130"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="692,84,752,98,751,103,691,89"/>
+<area shape="rect" id="Node000005" href="$bmp3_8c.html#a9e0c2cdecfdac8aa6ed4e35940f7ade7" title="This API reads the data from the given register address of the sensor." alt="" coords="1169,31,1279,56"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1122,26,1154,31,1153,36,1121,32"/>
+<area shape="rect" id="Node000007" href="$bmp3_8c.html#aab06f63f2fc075f9d40bd0a16d42fda5" title="This API gets the power mode of the sensor." alt="" coords="974,55,1112,80"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="898,65,958,65,958,70,898,70"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="1112,56,1153,50,1154,55,1113,61"/>
+</map>

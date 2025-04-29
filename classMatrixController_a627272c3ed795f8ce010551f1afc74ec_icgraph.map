@@ -1,0 +1,25 @@
+<map id="MatrixController::setColor" name="MatrixController::setColor">
+<area shape="rect" id="Node000001" title="Sets the color for a specific chamber in the matrix." alt="" coords="444,228,609,254"/>
+<area shape="rect" id="Node000002" href="$classMatrixController.html#aa8df859b24ec3ef4bf990a00a8c21885" title="Initializes the matrix and sets up default settings for all chambers." alt="" coords="235,5,384,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="513,215,495,177,470,130,436,84,394,44,376,34,379,29,398,40,440,80,474,128,500,174,518,213"/>
+<area shape="rect" id="Node000003" href="$classMatrixController.html#a26cd9bf52fb9896b3786de47e63a7b15" title="Handles the blink effect for the matrix." alt="" coords="223,55,396,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="506,217,459,159,428,129,395,102,357,83,359,78,397,97,432,125,463,156,510,214"/>
+<area shape="rect" id="Node000005" href="$classMatrixController.html#aa97396dd55ce7fc63a5ae5f872d38dbb" title="Configures the blink state of a specific chamber." alt="" coords="5,236,175,277"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="501,219,455,179,426,160,395,146,348,132,309,127,270,131,224,146,188,164,156,188,109,238,105,234,153,184,185,160,222,141,269,126,309,122,349,127,397,141,429,155,458,174,505,215"/>
+<area shape="rect" id="Node000006" href="$classMatrixController.html#ac0b270ee78420c85c02b02d949045817" title="Configures the color of a specific chamber using a hex color string." alt="" coords="225,155,394,196"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="466,226,379,199,380,194,468,221"/>
+<area shape="rect" id="Node000007" href="$classMatrixController.html#a5adf4f62a593e6527ee3d27172fbd3c3" title="Configures the color of a specific chamber using RGB values." alt="" coords="225,220,394,261"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="428,244,394,244,394,238,428,238"/>
+<area shape="rect" id="Node000008" href="$classMatrixController.html#a887f78ba1b9428524701718df5dc3cf5" title="Controls the matrix based on incoming messages." alt="" coords="12,319,168,360"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="511,269,492,296,466,326,434,354,397,375,364,386,330,391,262,390,197,379,143,363,144,358,198,374,262,385,330,386,363,381,395,370,431,350,462,322,488,292,507,265"/>
+<area shape="rect" id="Node000009" href="$classMatrixController.html#a53addfb6c52039fd46ad6d45da54af16" title="Resets the color and blink settings of a specific chamber." alt="" coords="236,335,382,360"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="497,265,452,296,397,326,368,337,367,332,395,321,449,292,494,261"/>
+<area shape="rect" id="Node000010" href="$classMatrixController.html#a7817d862d59e1cfaa82b2af61c23c791" title="Starts the blinking effect for a specific chamber." alt="" coords="223,285,396,311"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="461,261,362,287,360,282,460,256"/>
+<area shape="rect" id="Node000011" href="$classMatrixController.html#a4586cea2bcc3a4cc779f68ec88d410fa" title="Stops the blinking effect for a specific chamber." alt="" coords="224,436,395,462"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="515,269,469,342,436,383,398,419,362,438,360,433,394,415,432,380,465,339,510,266"/>
+<area shape="rect" id="Node000004" href="$classMatrixController.html#a5b007b5cd29f21c8f250946cf33315ab" title="Main loop to handle blinking and button states." alt="" coords="19,55,161,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="207,70,161,70,161,65,207,65"/>
+<area shape="poly" id="edge10_Node000010_Node000005" title=" " alt="" coords="222,285,175,275,176,270,223,279"/>
+<area shape="poly" id="edge11_Node000010_Node000008" title=" " alt="" coords="223,317,169,327,168,322,222,312"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Adafruit_INA219::getPower_raw" name="Adafruit_INA219::getPower_raw">
+<area shape="rect" id="Node000001" title="Gets the raw power value (16&#45;bit signed integer, so +&#45;32767)" alt="" coords="262,5,468,31"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__INA219.html#a610b73a256146e07c30b00714548f0ac" title="Gets the power value in mW, taking into account the config settings and current LSB." alt="" coords="5,5,214,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,21,214,21,214,16,246,16"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="StatusLED" name="StatusLED">
+<area shape="rect" id="Node000001" title=" " alt="" coords="7,907,146,1360"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__NeoPixel.html" title="Class that stores state and functions for interacting with Adafruit NeoPixels and compatible devices." alt="" coords="5,5,148,844"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,844,80,890,74,890,74,844"/>
+</map>

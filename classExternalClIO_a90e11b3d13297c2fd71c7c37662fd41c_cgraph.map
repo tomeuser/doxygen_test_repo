@@ -1,0 +1,5 @@
+<map id="ExternalClIO::configureBlink" name="ExternalClIO::configureBlink">
+<area shape="rect" id="Node000001" title="Configures the blink state of a specific chamber." alt="" coords="5,5,186,31"/>
+<area shape="rect" id="Node000002" href="$classExternalClIO.html#a7506fa4f5deea9a37dc1307ccffe73b4" title="Starts the blinking effect for a specific chamber." alt="" coords="234,5,388,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,16,218,16,218,21,186,21"/>
+</map>

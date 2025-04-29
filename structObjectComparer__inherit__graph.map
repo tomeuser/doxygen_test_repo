@@ -1,0 +1,7 @@
+<map id="ObjectComparer" name="ObjectComparer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="22,397,148,483"/>
+<area shape="rect" id="Node000002" href="$structComparerBase.html" title=" " alt="" coords="36,282,133,349"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,363,87,397,82,397,82,363"/>
+<area shape="rect" id="Node000003" href="$structVisitor.html" title=" " alt="" coords="5,5,164,234"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,249,87,283,82,283,82,249"/>
+</map>

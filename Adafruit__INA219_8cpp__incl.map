@@ -1,0 +1,11 @@
+<map id="Adafruit_INA219.cpp" name="Adafruit_INA219.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="20,5,162,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,153,81,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,34,39,53,17,80,14,95,15,110,28,139,23,141,10,111,8,94,13,78,36,49,64,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="110,153,168,178"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="118,29,146,49,169,78,174,94,172,111,159,141,154,139,167,110,168,95,165,80,143,53,115,34"/>
+<area shape="rect" id="Node000004" href="$Adafruit__INA219_8h.html" title=" " alt="" coords="27,79,155,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="94,31,94,63,88,63,88,31"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="85,106,62,141,57,138,81,103"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="101,103,125,138,120,141,97,106"/>
+</map>

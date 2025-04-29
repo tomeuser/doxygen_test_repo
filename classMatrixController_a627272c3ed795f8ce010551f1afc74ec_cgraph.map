@@ -1,0 +1,5 @@
+<map id="MatrixController::setColor" name="MatrixController::setColor">
+<area shape="rect" id="Node000001" title="Sets the color for a specific chamber in the matrix." alt="" coords="5,13,171,38"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__NeoPixel.html#ab8763ccc6f9a090df1f753905fd5561e" title="Set a pixel&#39;s color using separate red, green and blue components. If using RGBW pixels,..." alt="" coords="219,5,350,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,23,204,23,204,28,171,28"/>
+</map>

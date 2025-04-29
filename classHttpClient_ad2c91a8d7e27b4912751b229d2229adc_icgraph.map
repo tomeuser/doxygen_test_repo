@@ -1,0 +1,13 @@
+<map id="HttpClient::readHeader" name="HttpClient::readHeader">
+<area shape="rect" id="Node000001" title=" " alt="" coords="695,35,848,60"/>
+<area shape="rect" id="Node000002" href="$classHttpClient.html#a0f69501b4c3f559018f46cef58c644d8" title=" " alt="" coords="470,5,647,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="680,38,647,33,648,28,680,32"/>
+<area shape="rect" id="Node000003" href="$classHttpClient.html#adbf477517900e0f3a5f662b2f3f4035b" title=" " alt="" coords="475,55,642,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="680,62,643,67,643,62,680,57"/>
+<area shape="rect" id="Node000004" href="$classHttpClient.html#ad30868aca427f02a66007024e61722a8" title=" " alt="" coords="254,63,422,88"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="460,78,422,78,422,73,460,73"/>
+<area shape="rect" id="Node000005" href="$classHttpClient.html#a40e874de7466bfc201ee9fd73d2f51d7" title=" " alt="" coords="5,37,206,63"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="238,67,206,64,206,58,239,62"/>
+<area shape="rect" id="Node000006" href="$classHttpClient.html#a05eb433f7d6ce865c6bd4e16526e72c3" title=" " alt="" coords="22,87,189,112"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="239,88,190,94,189,88,238,83"/>
+</map>

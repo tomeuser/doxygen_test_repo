@@ -1,0 +1,9 @@
+<map id="Adafruit_INA219::begin" name="Adafruit_INA219::begin">
+<area shape="rect" id="Node000001" title="Sets up the HW (defaults to 32V and 2A for calibration values)" alt="" coords="5,13,160,38"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__INA219.html#a9e183c2f52456bb98cc5152e4f2e9eb4" title="begin I2C and set up the hardware" alt="" coords="208,13,348,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,23,192,23,192,28,160,28"/>
+<area shape="rect" id="Node000003" href="$classAdafruit__INA219.html#a1e53272bab1159bab1b0ef255b450d02" title="Configures to INA219 to be able to measure up to 32V and 2A of current. Each unit of current correspo..." alt="" coords="396,5,598,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="348,23,380,23,380,28,348,28"/>
+<area shape="rect" id="Node000004" href="$classAdafruit__BusIO__Register.html#aa418dced5301a1d8c1776a1941c8bc64" title="Write a buffer of data to the register location." alt="" coords="646,5,812,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="598,23,631,23,631,28,598,28"/>
+</map>

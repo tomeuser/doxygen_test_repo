@@ -1,0 +1,9 @@
+<map id="bmp3_status" name="bmp3_status">
+<area shape="rect" id="Node000001" title="bmp3 status flags" alt="" coords="152,175,240,242"/>
+<area shape="rect" id="Node000002" href="$structbmp3__int__status.html" title="bmp3 interrupt status flags" alt="" coords="5,5,112,112"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,110,157,161,153,165,105,114"/>
+<area shape="rect" id="Node000003" href="$structbmp3__sens__status.html" title="bmp3 sensor status flags" alt="" coords="136,5,256,112"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,112,199,158,193,158,193,112"/>
+<area shape="rect" id="Node000004" href="$structbmp3__err__status.html" title="bmp3 error status flags" alt="" coords="281,5,388,112"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="290,114,254,153,242,165,238,162,250,149,286,110"/>
+</map>

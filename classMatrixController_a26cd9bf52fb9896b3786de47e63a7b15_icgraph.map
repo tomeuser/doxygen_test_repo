@@ -1,0 +1,5 @@
+<map id="MatrixController::blinkLoop" name="MatrixController::blinkLoop">
+<area shape="rect" id="Node000001" title="Handles the blink effect for the matrix." alt="" coords="195,5,368,31"/>
+<area shape="rect" id="Node000002" href="$classMatrixController.html#a5b007b5cd29f21c8f250946cf33315ab" title="Main loop to handle blinking and button states." alt="" coords="5,5,147,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,21,147,21,147,16,179,16"/>
+</map>

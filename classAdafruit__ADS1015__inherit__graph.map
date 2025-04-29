@@ -1,0 +1,5 @@
+<map id="Adafruit_ADS1015" name="Adafruit_ADS1015">
+<area shape="rect" id="Node000001" title="Sensor driver for the Adafruit ADS1015 ADC breakout." alt="" coords="38,586,177,653"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__ADS1X15.html" title="Sensor driver for the Adafruit ADS1X15 ADC breakouts." alt="" coords="5,5,209,538"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,553,110,587,105,587,105,553"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Adafruit_INA219::setCalibration_32V_1A" name="Adafruit_INA219::setCalibration_32V_1A">
+<area shape="rect" id="Node000001" title="Configures to INA219 to be able to measure up to 32V and 1A of current. Each unit of current correspo..." alt="" coords="5,5,208,46"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__BusIO__Register.html#aa418dced5301a1d8c1776a1941c8bc64" title="Write a buffer of data to the register location." alt="" coords="256,5,421,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,23,240,23,240,28,208,28"/>
+</map>

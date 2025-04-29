@@ -1,0 +1,5 @@
+<map id="PowerOverEthernet::executePoeDependencies" name="PowerOverEthernet::executePoeDependencies">
+<area shape="rect" id="Node000001" title="Executes the necessary actions based on the detected PoE type." alt="" coords="211,5,382,46"/>
+<area shape="rect" id="Node000002" href="$classPowerOverEthernet.html#a4ef3f80a945ebe0726b22ccd3024d5ed" title="This method reads periodically the state of the IO multiplexer to determine the current PoE type and ..." alt="" coords="5,13,163,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,28,163,28,163,23,195,23"/>
+</map>

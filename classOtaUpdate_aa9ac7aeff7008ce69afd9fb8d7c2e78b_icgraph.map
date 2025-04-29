@@ -1,0 +1,9 @@
+<map id="OtaUpdate::splitUrl" name="OtaUpdate::splitUrl">
+<area shape="rect" id="Node000001" title="This function splits an url into three components domain, port, path. If url contanis http port = 80,..." alt="" coords="431,35,562,60"/>
+<area shape="rect" id="Node000002" href="$classOtaUpdate.html#ae9540a85208e4cac3c61f0425a33eb32" title="This function is a help function to analyse a json object if it contains an &#39;ota&#39; key." alt="" coords="209,5,383,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="415,38,383,34,384,28,416,33"/>
+<area shape="rect" id="Node000003" href="$classOtaUpdate.html#aa1c68e7cde1f6f0b02e2e6717da463a2" title="This function initiates a http request to download a json file which should contain all latest firmwa..." alt="" coords="211,55,381,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="416,61,382,66,381,61,415,56"/>
+<area shape="rect" id="Node000004" href="$classOtaUpdate.html#aabd5bc5304848ad553fd9712f2904f8f" title="This function triggers the http request for downloading the latest firmware json file." alt="" coords="5,55,161,96"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="195,78,161,78,161,73,195,73"/>
+</map>

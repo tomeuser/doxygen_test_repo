@@ -1,0 +1,5 @@
+<map id="Adafruit_INA219::powerSave" name="Adafruit_INA219::powerSave">
+<area shape="rect" id="Node000001" title="Set power save mode according to parameters." alt="" coords="5,13,194,38"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__BusIO__RegisterBits.html#a9311f94f1a1d93bc575b06c34ddecd80" title="Write 4 bytes of data to the register." alt="" coords="242,5,430,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,23,226,23,226,28,194,28"/>
+</map>

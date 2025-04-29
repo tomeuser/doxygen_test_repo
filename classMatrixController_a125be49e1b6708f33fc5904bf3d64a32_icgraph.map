@@ -1,0 +1,5 @@
+<map id="MatrixController::hexToRgb" name="MatrixController::hexToRgb">
+<area shape="rect" id="Node000001" title="Converts a hex color string to RGB values." alt="" coords="223,13,398,38"/>
+<area shape="rect" id="Node000002" href="$classMatrixController.html#ac0b270ee78420c85c02b02d949045817" title="Configures the color of a specific chamber using a hex color string." alt="" coords="5,5,175,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,28,175,28,175,23,207,23"/>
+</map>

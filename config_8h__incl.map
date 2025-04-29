@@ -1,0 +1,77 @@
+<map id="config.h" name="config.h">
+<area shape="rect" id="Node000001" title="This is the config file. It contains all class instances and imports external libraries." alt="" coords="505,5,570,31"/>
+<area shape="rect" id="Node000002" href="$const_8h.html" title="Project settings." alt="" coords="44,374,108,399"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="504,24,302,44,190,61,145,71,112,82,72,96,39,110,26,119,16,130,10,145,8,164,8,240,13,275,25,307,58,360,54,363,21,310,8,276,3,241,3,164,5,144,12,127,22,115,36,106,70,91,110,76,144,65,189,55,301,39,504,19"/>
+<area shape="rect" id="Node000003" href="$light__sensor_8h.html" title="This is the header file of the template class light_sensor.h declaring all variables and methods used..." alt="" coords="949,226,1051,252"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="570,18,653,23,759,33,860,50,900,62,928,77,957,107,977,142,990,179,998,210,993,212,985,180,972,145,952,110,925,81,898,67,858,55,758,38,653,28,570,23"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="1270,374,1346,399"/>
+<area shape="poly" id="edge45_Node000001_Node000005" title=" " alt="" coords="571,19,760,34,1027,63,1157,83,1266,106,1309,119,1341,132,1363,147,1371,164,1371,241,1366,275,1356,308,1328,362,1323,359,1351,306,1361,274,1365,240,1365,165,1359,151,1339,137,1307,124,1264,111,1156,88,1027,69,760,40,570,24"/>
+<area shape="rect" id="Node000007" href="$mqtt__client_8h.html" title="This is the headerfile of the class MqttClient declaring all varibales and methods used by this class..." alt="" coords="336,300,432,326"/>
+<area shape="poly" id="edge22_Node000001_Node000007" title=" " alt="" coords="526,33,480,83,453,117,430,154,416,188,404,223,391,285,385,284,399,222,411,186,426,151,449,114,476,80,523,30"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="131,374,189,399"/>
+<area shape="poly" id="edge46_Node000001_Node000008" title=" " alt="" coords="505,25,389,38,240,64,170,83,112,106,90,119,73,133,62,148,59,164,59,240,66,277,84,311,109,339,133,362,130,366,105,343,80,314,61,279,53,241,53,164,57,146,69,130,87,115,110,101,168,78,239,59,388,33,504,20"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="657,374,788,399"/>
+<area shape="poly" id="edge47_Node000001_Node000011" title=" " alt="" coords="571,18,702,28,880,50,969,67,1049,89,1113,117,1136,133,1153,151,1180,177,1193,189,1203,204,1204,224,1194,250,1170,284,1128,328,1112,336,1083,344,999,359,804,381,804,376,998,354,1082,339,1110,331,1125,324,1165,280,1189,247,1198,223,1197,206,1189,193,1176,181,1149,155,1133,137,1110,122,1047,94,968,72,879,55,701,33,570,24"/>
+<area shape="rect" id="Node000014" href="$memory__manager_8h.html" title="This is the headerfile of the class MemoryManager declaring all varibales and methods used by this cl..." alt="" coords="93,226,227,252"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="505,27,427,46,383,61,340,81,292,113,248,150,182,217,178,213,244,146,289,109,337,77,381,56,426,41,504,22"/>
+<area shape="rect" id="Node000016" href="$ota__update_8h.html" title="This is the headerfile of the class OtaUpdate declaring all varibales and methods used by this class." alt="" coords="251,226,346,252"/>
+<area shape="poly" id="edge23_Node000001_Node000016" title=" " alt="" coords="505,26,472,31,436,42,399,58,367,81,343,111,325,146,313,181,306,212,300,211,308,180,320,144,338,108,364,77,397,53,434,37,471,26,504,20"/>
+<area shape="rect" id="Node000017" href="$power__over__ethernet_8h.html" title="This is the header file of class power_over_ethernet.h declaring all variables and methods used by th..." alt="" coords="518,79,671,105"/>
+<area shape="poly" id="edge26_Node000001_Node000017" title=" " alt="" coords="549,30,577,65,573,68,545,33"/>
+<area shape="rect" id="Node000018" href="$matrix__controller_8h.html" title="This is the header file of the template class MatrixController declaring all variables and methods us..." alt="" coords="642,153,768,178"/>
+<area shape="poly" id="edge48_Node000001_Node000018" title=" " alt="" coords="571,22,629,39,659,55,685,77,700,106,707,137,702,138,695,108,681,81,656,60,627,44,570,27"/>
+<area shape="rect" id="Node000021" href="$status__led_8h.html" title="This is the class to control the status led." alt="" coords="440,153,531,178"/>
+<area shape="poly" id="edge34_Node000001_Node000021" title=" " alt="" coords="533,33,509,80,493,138,488,137,504,78,528,30"/>
+<area shape="rect" id="Node000022" href="$temp__sensor_8h.html" title="This is the header file of class temp_sensor.h declaring all variables and methods used by this class..." alt="" coords="808,79,914,105"/>
+<area shape="poly" id="edge36_Node000001_Node000022" title=" " alt="" coords="571,24,793,73,792,78,570,29"/>
+<area shape="rect" id="Node000004" href="$Adafruit__ADS1X15_8h.html" title=" " alt="" coords="1190,300,1330,326"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1045,250,1202,293,1200,298,1043,255"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="934,374,991,399"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="1000,253,972,359,967,358,994,252"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="949,249,448,307,447,302,949,244"/>
+<area shape="rect" id="Node000013" href="$light__sensor_8hpp.html" title="This file defines all methods of the template class LightSensor which were declared in light_sensor...." alt="" coords="1000,300,1115,326"/>
+<area shape="poly" id="edge14_Node000003_Node000013" title=" " alt="" coords="1005,251,1032,287,1028,290,1000,254"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1270,324,1294,359,1289,362,1266,327"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="1210,329,1007,377,1006,372,1209,324"/>
+<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="337,327,123,375,122,370,335,322"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="347,329,204,374,203,369,345,324"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="213,374,315,399"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="365,329,299,368,296,363,362,324"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="339,374,429,399"/>
+<area shape="poly" id="edge11_Node000007_Node000010" title=" " alt="" coords="387,326,387,358,381,358,381,326"/>
+<area shape="poly" id="edge12_Node000007_Node000011" title=" " alt="" coords="433,322,651,367,650,373,432,327"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="453,374,510,399"/>
+<area shape="poly" id="edge13_Node000007_Node000012" title=" " alt="" coords="402,324,455,362,451,367,399,328"/>
+<area shape="poly" id="edge15_Node000013_Node000003" title=" " alt="" coords="1052,301,1025,265,1029,262,1057,298"/>
+<area shape="poly" id="edge17_Node000014_Node000002" title=" " alt="" coords="155,254,93,361,88,359,151,251"/>
+<area shape="poly" id="edge21_Node000014_Node000007" title=" " alt="" coords="199,250,332,292,331,297,197,255"/>
+<area shape="poly" id="edge18_Node000014_Node000008" title=" " alt="" coords="163,252,163,358,157,358,157,252"/>
+<area shape="poly" id="edge19_Node000014_Node000009" title=" " alt="" coords="171,251,249,359,244,362,166,254"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="248,300,312,326"/>
+<area shape="poly" id="edge20_Node000014_Node000015" title=" " alt="" coords="182,250,248,289,245,294,179,255"/>
+<area shape="poly" id="edge24_Node000016_Node000007" title=" " alt="" coords="315,250,360,288,357,292,311,255"/>
+<area shape="poly" id="edge25_Node000016_Node000015" title=" " alt="" coords="298,253,290,286,284,284,293,252"/>
+<area shape="poly" id="edge33_Node000017_Node000007" title=" " alt="" coords="599,105,602,134,601,174,592,216,584,236,571,254,545,277,513,293,480,304,448,310,447,305,479,299,511,288,542,272,567,250,579,233,587,214,596,173,597,134,594,105"/>
+<area shape="poly" id="edge27_Node000017_Node000018" title=" " alt="" coords="615,103,675,142,672,146,612,107"/>
+<area shape="poly" id="edge28_Node000018_Node000003" title=" " alt="" coords="756,176,936,220,935,225,755,182"/>
+<area shape="poly" id="edge30_Node000018_Node000007" title=" " alt="" coords="733,177,758,191,781,210,794,231,794,242,787,254,764,271,729,285,687,295,639,303,537,312,447,314,447,309,537,306,638,297,686,290,728,280,761,266,783,250,788,241,789,232,777,213,755,196,730,181"/>
+<area shape="rect" id="Node000019" href="$Adafruit__NeoPixel_8h.html" title=" " alt="" coords="422,226,557,252"/>
+<area shape="poly" id="edge29_Node000018_Node000019" title=" " alt="" coords="670,181,541,224,540,218,668,176"/>
+<area shape="rect" id="Node000020" href="$matrix__controller_8hpp.html" title="This file defines all methods of the template class MatrixController which were declared in matrix_co..." alt="" coords="632,226,773,252"/>
+<area shape="poly" id="edge31_Node000018_Node000020" title=" " alt="" coords="701,179,698,211,692,211,695,178"/>
+<area shape="poly" id="edge32_Node000020_Node000018" title=" " alt="" coords="707,226,710,194,716,194,713,226"/>
+<area shape="poly" id="edge35_Node000021_Node000019" title=" " alt="" coords="489,178,490,211,485,211,483,179"/>
+<area shape="poly" id="edge37_Node000022_Node000006" title=" " alt="" coords="868,104,956,358,951,360,863,106"/>
+<area shape="poly" id="edge38_Node000022_Node000007" title=" " alt="" coords="864,105,861,136,853,176,837,218,824,238,808,254,781,270,743,282,646,299,540,309,447,313,447,308,540,304,646,294,742,277,779,265,805,250,820,234,832,216,848,175,856,135,859,105"/>
+<area shape="poly" id="edge44_Node000022_Node000018" title=" " alt="" coords="836,108,747,148,745,143,834,103"/>
+<area shape="rect" id="Node000023" href="$Adafruit__BMP3XX_8h.html" title=" " alt="" coords="1001,153,1138,178"/>
+<area shape="poly" id="edge39_Node000022_Node000023" title=" " alt="" coords="897,103,1020,145,1019,150,896,108"/>
+<area shape="rect" id="Node000024" href="$bmp3_8h.html" title=" " alt="" coords="1414,226,1477,252"/>
+<area shape="poly" id="edge40_Node000023_Node000024" title=" " alt="" coords="1134,176,1399,226,1398,232,1133,182"/>
+<area shape="rect" id="Node000025" href="$bmp3__defs_8h.html" title="Sensor driver for BMP3 sensor." alt="" coords="1406,300,1501,326"/>
+<area shape="poly" id="edge41_Node000024_Node000025" title=" " alt="" coords="1449,252,1453,284,1448,285,1444,253"/>
+<area shape="rect" id="Node000026" title=" " alt="" coords="1466,374,1529,399"/>
+<area shape="poly" id="edge42_Node000025_Node000026" title=" " alt="" coords="1463,324,1484,359,1480,362,1458,327"/>
+<area shape="rect" id="Node000027" title=" " alt="" coords="1374,374,1442,399"/>
+<area shape="poly" id="edge43_Node000025_Node000027" title=" " alt="" coords="1448,327,1426,362,1421,359,1444,324"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="HttpClient::del" name="HttpClient::del">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,108,106"/>
+<area shape="rect" id="Node000002" href="$classHttpClient.html#a132817aa337738438a11635890729023" title=" " alt="" coords="156,80,315,106"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,90,140,90,140,96,108,96"/>
+<area shape="rect" id="Node000003" href="$classHttpClient.html#aa9772b5fe920a5cb0bcb74871e2b4679" title=" " alt="" coords="380,5,540,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="266,77,362,40,384,33,386,38,364,45,268,82"/>
+<area shape="rect" id="Node000004" href="$classHttpClient.html#ab29155f574471c50d78b72484378b9b5" title=" " alt="" coords="387,55,532,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="315,81,371,75,372,80,316,86"/>
+<area shape="rect" id="Node000005" href="$classHttpClient.html#a10b1352ced52ad00f5989d17294b4978" title=" " alt="" coords="604,131,760,156"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="316,99,589,130,589,136,315,104"/>
+<area shape="rect" id="Node000006" href="$classHttpClient.html#abadbb2a8c693e4c782b4552f2a74d48b" title=" " alt="" coords="363,156,556,182"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="276,104,364,134,404,148,403,153,362,139,274,109"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="556,155,588,151,589,157,557,160"/>
+</map>

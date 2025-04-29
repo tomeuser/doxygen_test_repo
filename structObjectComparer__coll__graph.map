@@ -1,0 +1,14 @@
+<map id="ObjectComparer" name="ObjectComparer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="22,850,148,937"/>
+<area shape="rect" id="Node000002" href="$structComparerBase.html" title=" " alt="" coords="36,477,133,543"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,558,87,851,82,851,82,558"/>
+<area shape="rect" id="Node000003" href="$structVisitor.html" title=" " alt="" coords="5,5,164,234"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,250,87,477,82,477,82,250"/>
+<area shape="rect" id="Node000004" href="$classCollectionData.html" title=" " alt="" coords="171,284,305,736"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="174,678,110,836,105,834,169,676"/>
+<area shape="rect" id="Node000006" href="$unionVariantContent.html" title=" " alt="" coords="172,799,304,988"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="241,736,241,783,235,783,235,736"/>
+<area shape="rect" id="Node000005" href="$classVariantSlot.html" title=" " alt="" coords="235,1051,356,1402"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="323,1050,330,982,333,908,332,834,323,761,307,693,313,692,329,760,337,833,339,908,336,982,329,1051"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="257,987,265,1034,260,1034,251,988"/>
+</map>

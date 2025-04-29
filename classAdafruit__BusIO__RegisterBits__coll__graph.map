@@ -1,0 +1,9 @@
+<map id="Adafruit_BusIO_RegisterBits" name="Adafruit_BusIO_RegisterBits">
+<area shape="rect" id="Node000001" title="The class which defines a slice of bits from within a device register (a location to read/write data ..." alt="" coords="84,1159,284,1286"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__BusIO__Register.html" title="The class which defines a device register (a location to read/write data from)" alt="" coords="96,602,272,1096"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,1096,187,1142,181,1142,181,1096"/>
+<area shape="rect" id="Node000003" href="$classAdafruit__I2CDevice.html" title="&lt; The class which defines how we will talk to this device over I2C" alt="" coords="5,107,149,438"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,437,138,585,133,586,105,438"/>
+<area shape="rect" id="Node000004" href="$classAdafruit__SPIDevice.html" title=" " alt="" coords="174,5,408,539"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="244,540,235,586,230,585,239,539"/>
+</map>

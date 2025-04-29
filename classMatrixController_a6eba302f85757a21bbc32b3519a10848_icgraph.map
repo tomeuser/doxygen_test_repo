@@ -1,0 +1,9 @@
+<map id="MatrixController::checkLimits" name="MatrixController::checkLimits">
+<area shape="rect" id="Node000001" title="Checks if the color is within the defined brightness limits." alt="" coords="223,63,411,88"/>
+<area shape="rect" id="Node000002" href="$classMatrixController.html#aa8df859b24ec3ef4bf990a00a8c21885" title="Initializes the matrix and sets up default settings for all chambers." alt="" coords="16,5,164,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="247,61,143,34,145,29,249,56"/>
+<area shape="rect" id="Node000003" href="$classMatrixController.html#ac0b270ee78420c85c02b02d949045817" title="Configures the color of a specific chamber using a hex color string." alt="" coords="5,55,175,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,78,175,78,175,73,207,73"/>
+<area shape="rect" id="Node000004" href="$classMatrixController.html#a5adf4f62a593e6527ee3d27172fbd3c3" title="Configures the color of a specific chamber using RGB values." alt="" coords="5,120,175,161"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="256,96,164,122,162,117,254,91"/>
+</map>

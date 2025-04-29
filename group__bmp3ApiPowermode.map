@@ -1,0 +1,4 @@
+<map id="Power mode" name="Power mode">
+<area shape="rect" id="Node000002" href="$group__bmp3.html" title=" " alt="" coords="5,5,63,31"/>
+<area shape="rect" id="Node000001" title="Set / Get power mode of the sensor." alt="" coords="111,5,204,31"/>
+</map>

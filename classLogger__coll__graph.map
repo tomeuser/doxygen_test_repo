@@ -1,0 +1,9 @@
+<map id="Logger" name="Logger">
+<area shape="rect" id="Node000001" title=" " alt="" coords="25,2501,207,2771"/>
+<area shape="rect" id="Node000002" href="$classMqttClient.html" title="This class represents a mqtt client." alt="" coords="9,1579,223,2438"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,2438,119,2484,114,2484,114,2438"/>
+<area shape="rect" id="Node000003" href="$classPubSubClient.html" title=" " alt="" coords="5,121,227,1529"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="119,1544,119,1579,114,1579,114,1544"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="98,5,135,72"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="119,87,119,121,114,121,114,87"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="MatrixController::stopBlink" name="MatrixController::stopBlink">
+<area shape="rect" id="Node000001" title="Stops the blinking effect for a specific chamber." alt="" coords="5,13,177,38"/>
+<area shape="rect" id="Node000002" href="$classMatrixController.html#a627272c3ed795f8ce010551f1afc74ec" title="Sets the color for a specific chamber in the matrix." alt="" coords="225,13,390,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,23,209,23,209,28,177,28"/>
+<area shape="rect" id="Node000003" href="$classAdafruit__NeoPixel.html#ab8763ccc6f9a090df1f753905fd5561e" title="Set a pixel&#39;s color using separate red, green and blue components. If using RGBW pixels,..." alt="" coords="438,5,569,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="390,23,423,23,423,28,390,28"/>
+</map>

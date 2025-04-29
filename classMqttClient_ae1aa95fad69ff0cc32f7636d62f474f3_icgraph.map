@@ -1,0 +1,8 @@
+<map id="MqttClient::connected" name="MqttClient::connected">
+<area shape="rect" id="Node000001" title="This function returns true if there is an existing connection to the mqtt server." alt="" coords="392,31,538,56"/>
+<area shape="rect" id="Node000002" href="$classMqttClient.html#ad7870e7ba57116933a50d41c351001ff" title="This function connects to the mqtt server and subscribes topics." alt="" coords="164,5,344,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="376,36,344,32,345,26,377,30"/>
+<area shape="rect" id="Node000003" href="$classMqttClient.html#a8c05869292d6f7c07b06ed839dcf187d" title="This function checks the network connection, intializes the mqtt server connection and processes outg..." alt="" coords="5,31,116,56"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="376,46,116,46,116,41,376,41"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="149,35,117,39,116,34,148,29"/>
+</map>

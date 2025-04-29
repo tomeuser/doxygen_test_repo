@@ -1,0 +1,20 @@
+<map id="MatrixController&lt; chamberCount &gt;" name="MatrixController&lt; chamberCount &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="176,3681,342,4393"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__NeoPixel.html" title="Class that stores state and functions for interacting with Adafruit NeoPixels and compatible devices." alt="" coords="5,2779,148,3618"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,3580,162,3617,179,3693,174,3695,157,3619,149,3581"/>
+<area shape="rect" id="Node000003" href="$classLightSensor.html" title=" " alt="" coords="172,2843,347,3554"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="262,3554,262,3664,257,3664,257,3554"/>
+<area shape="rect" id="Node000004" href="$classAdafruit__ADS1015.html" title="Sensor driver for the Adafruit ADS1015 ADC breakout." alt="" coords="122,2253,261,2320"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="196,2319,226,2755,232,2826,226,2826,221,2755,191,2320"/>
+<area shape="rect" id="Node000005" href="$classAdafruit__ADS1X15.html" title="Sensor driver for the Adafruit ADS1X15 ADC breakouts." alt="" coords="62,847,266,1360"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="173,1374,193,2253,188,2253,167,1374"/>
+<area shape="rect" id="Node000006" href="$classAdafruit__I2CDevice.html" title="&lt; The class which defines how we will talk to this device over I2C" alt="" coords="92,5,236,336"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="166,336,166,830,161,830,161,336"/>
+<area shape="rect" id="Node000007" href="$classMqttClient.html" title="This class represents a mqtt client." alt="" coords="288,1857,502,2716"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="409,2716,408,2925,401,3153,386,3388,362,3618,348,3703,343,3702,357,3618,381,3387,396,3153,402,2925,404,2716"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="310,2716,306,2740,295,2826,290,2825,301,2740,305,2715"/>
+<area shape="rect" id="Node000008" href="$classPubSubClient.html" title=" " alt="" coords="290,399,512,1807"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="400,1822,400,1857,395,1857,395,1822"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="382,138,420,204"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="404,218,404,399,398,399,398,218"/>
+</map>

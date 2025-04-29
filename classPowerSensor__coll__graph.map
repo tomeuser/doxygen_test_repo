@@ -1,0 +1,13 @@
+<map id="PowerSensor" name="PowerSensor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="131,2530,290,2901"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__INA219.html" title="Class that stores state and functions for interacting with INA219 current/power monitor IC." alt="" coords="5,1768,191,2276"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,2276,180,2512,175,2513,137,2277"/>
+<area shape="rect" id="Node000003" href="$classAdafruit__I2CDevice.html" title="&lt; The class which defines how we will talk to this device over I2C" alt="" coords="26,660,170,990"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,990,101,1751,96,1751,96,990"/>
+<area shape="rect" id="Node000004" href="$classMqttClient.html" title="This class represents a mqtt client." alt="" coords="215,1592,429,2452"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="261,2452,252,2506,250,2514,245,2513,246,2505,255,2451"/>
+<area shape="rect" id="Node000005" href="$classPubSubClient.html" title=" " alt="" coords="211,121,433,1529"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="325,1544,325,1593,320,1593,320,1544"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="304,5,341,72"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="325,87,325,121,320,121,320,87"/>
+</map>

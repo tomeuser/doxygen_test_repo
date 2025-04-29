@@ -1,0 +1,11 @@
+<map id="MatrixController::checkLimits" name="MatrixController::checkLimits">
+<area shape="rect" id="Node000001" title="Checks if the color is within the defined brightness limits." alt="" coords="5,42,194,68"/>
+<area shape="rect" id="Node000002" href="$classMatrixController.html#ad39271757a3ac3c229d9d496ebffe519" title="Extracts the brightness from an RGB color." alt="" coords="252,5,408,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,40,236,35,237,40,194,46"/>
+<area shape="rect" id="Node000003" href="$classMatrixController.html#a12bf978ab7fd87a9b800470a6f51220a" title="Scales the brightness of an RGB color using the HSV model." alt="" coords="242,70,418,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,64,227,68,226,73,194,69"/>
+<area shape="rect" id="Node000004" href="$classMatrixController.html#aab6a0b6b369f2cc50811d2969ecf2ece" title="Converts HSV values to RGB values." alt="" coords="466,45,629,70"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="418,70,450,66,451,72,418,75"/>
+<area shape="rect" id="Node000005" href="$classMatrixController.html#a300d1950cc56dc183add7edf85df0430" title="Converts RGB values to HSV values." alt="" coords="466,94,629,120"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="418,90,451,94,450,99,418,95"/>
+</map>

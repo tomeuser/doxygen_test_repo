@@ -1,0 +1,5 @@
+<map id="Adafruit_ADS1X15::startADCReading" name="Adafruit_ADS1X15::startADCReading">
+<area shape="rect" id="Node000001" title="Non&#45;blocking start conversion function." alt="" coords="5,5,242,31"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__ADS1X15.html#a7b62080c0e3ad34ea753715c54f1a50c" title="Writes 16&#45;bits to the specified destination register." alt="" coords="290,5,502,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,16,274,16,274,21,242,21"/>
+</map>

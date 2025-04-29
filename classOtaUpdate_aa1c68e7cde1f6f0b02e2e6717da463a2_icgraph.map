@@ -1,0 +1,5 @@
+<map id="OtaUpdate::requestLatestFirmware" name="OtaUpdate::requestLatestFirmware">
+<area shape="rect" id="Node000001" title="This function initiates a http request to download a json file which should contain all latest firmwa..." alt="" coords="209,5,379,46"/>
+<area shape="rect" id="Node000002" href="$classOtaUpdate.html#aabd5bc5304848ad553fd9712f2904f8f" title="This function triggers the http request for downloading the latest firmware json file." alt="" coords="5,5,161,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,28,161,28,161,23,193,23"/>
+</map>

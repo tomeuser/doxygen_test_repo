@@ -1,0 +1,15 @@
+<map id="MatrixController::controlMatrix" name="MatrixController::controlMatrix">
+<area shape="rect" id="Node000001" title="Controls the matrix based on incoming messages." alt="" coords="5,47,162,87"/>
+<area shape="rect" id="Node000002" href="$classMatrixController.html#a627272c3ed795f8ce010551f1afc74ec" title="Sets the color for a specific chamber in the matrix." alt="" coords="430,13,595,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,47,209,39,315,29,415,25,415,30,316,35,210,44,163,52"/>
+<area shape="rect" id="Node000004" href="$classAdafruit__NeoPixel.html#a4bcda7a15591065570d3598cbf970be7" title="Transmit pixel data in RAM to NeoPixels." alt="" coords="432,88,594,113"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="162,82,210,90,316,97,416,99,416,105,316,103,209,95,162,87"/>
+<area shape="rect" id="Node000006" href="$classMatrixController.html#a7817d862d59e1cfaa82b2af61c23c791" title="Starts the blinking effect for a specific chamber." alt="" coords="210,54,382,80"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="162,64,194,64,194,70,162,70"/>
+<area shape="rect" id="Node000003" href="$classAdafruit__NeoPixel.html#ab8763ccc6f9a090df1f753905fd5561e" title="Set a pixel&#39;s color using separate red, green and blue components. If using RGBW pixels,..." alt="" coords="643,5,775,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="596,23,628,23,628,28,596,28"/>
+<area shape="rect" id="Node000005" href="$classAdafruit__NeoPixel.html#a9e900a60b0ac2b43b99309bb118b929e" title="Check whether a call to show() will start sending data immediately or will &#39;block&#39; for a required int..." alt="" coords="643,80,775,121"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="594,98,628,98,628,103,594,103"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="366,51,426,39,427,45,367,56"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="383,78,416,83,415,88,382,83"/>
+</map>

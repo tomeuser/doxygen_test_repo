@@ -1,0 +1,17 @@
+<map id="Adafruit_SPIDevice::write_and_read" name="Adafruit_SPIDevice::write_and_read">
+<area shape="rect" id="Node000001" title="Write some data and read some data at the same time from SPI into the same buffer,..." alt="" coords="5,103,141,143"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__SPIDevice.html#a11e91bf075cdd77edcec11f4b28c6292" title="Write a buffer or two to the SPI device, with transaction management." alt="" coords="191,37,416,78"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,101,214,80,215,85,142,106"/>
+<area shape="rect" id="Node000005" href="$classAdafruit__SPIDevice.html#ad9e42c259682a03e76afd33c66af9317" title="Manually end a transaction (calls endTransaction if hardware SPI) with deasserting the CS pin." alt="" coords="189,103,418,143"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="141,120,173,120,173,126,141,126"/>
+<area shape="rect" id="Node000007" href="$classAdafruit__SPIDevice.html#ac60964386f37b2c498fc1b1540f61889" title="Transfer (send/receive) one byte over hard/soft SPI, without transaction management." alt="" coords="236,192,371,233"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="129,141,235,183,233,188,127,146"/>
+<area shape="rect" id="Node000003" href="$classAdafruit__SPIDevice.html#acde87a3312ddc729c259b1b45fe71d82" title="Manually begin a transaction (calls beginTransaction if hardware SPI)" alt="" coords="466,5,601,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="416,39,451,34,451,40,417,45"/>
+<area shape="rect" id="Node000004" href="$classAdafruit__SPIDevice.html#a0e9f91766b66b5f34ffd799525d68eda" title="Assert/Deassert the CS pin if it is defined." alt="" coords="466,71,601,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="417,71,451,76,451,82,416,77"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="418,104,450,100,451,105,419,110"/>
+<area shape="rect" id="Node000006" href="$classAdafruit__SPIDevice.html#a65b517b7372df56322b807a08d067f8b" title="Manually end a transaction (calls endTransaction if hardware SPI)" alt="" coords="466,136,601,177"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="419,137,451,142,450,147,418,142"/>
+<area shape="poly" id="edge8_Node000007_Node000007" title=" " alt="" coords="260,192,258,182,265,173,280,167,303,165,328,168,343,174,341,179,327,173,303,171,281,173,268,177,263,183,265,191"/>
+</map>

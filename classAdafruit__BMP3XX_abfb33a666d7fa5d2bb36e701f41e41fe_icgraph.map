@@ -1,0 +1,11 @@
+<map id="Adafruit_BMP3XX::performReading" name="Adafruit_BMP3XX::performReading">
+<area shape="rect" id="Node000001" title="Perform a reading in blocking mode." alt="" coords="535,47,712,88"/>
+<area shape="rect" id="Node000002" href="$classTempSensor.html#a140f95720da9decb870be42e72590dcc" title="Periodically checks the temperature and takes action in case of overheating." alt="" coords="309,5,434,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="519,50,434,33,435,28,520,45"/>
+<area shape="rect" id="Node000003" href="$classAdafruit__BMP3XX.html#a59155a6264bd91e704852e2bd45b96b1" title="Performs a reading and returns the barometric pressure." alt="" coords="266,55,476,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="520,70,477,70,477,65,520,65"/>
+<area shape="rect" id="Node000005" href="$classAdafruit__BMP3XX.html#ad9182a89f2ec135146982cdb85673fa9" title="Performs a reading and returns the ambient temperature." alt="" coords="256,104,487,130"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="520,90,441,106,440,101,519,85"/>
+<area shape="rect" id="Node000004" href="$classAdafruit__BMP3XX.html#a7c7c23f9fdd50c0c17b2f3d9495fc262" title="Calculates the altitude (in meters)." alt="" coords="5,55,208,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="250,70,208,70,208,65,250,65"/>
+</map>

@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['rainbow_0',['rainbow',['../classAdafruit__NeoPixel.html#a914f61b78e4d36a03c91372ceded2d46',1,'Adafruit_NeoPixel']]],
+  ['read_1',['read',['../classAdafruit__BusIO__Register.html#a2b48e23dacbb7cffc0eb07dcebcfba6f',1,'Adafruit_BusIO_Register::read(uint8_t *buffer, uint8_t len)'],['../classAdafruit__BusIO__Register.html#adca04654563a7c68a580533197366f61',1,'Adafruit_BusIO_Register::read(uint8_t *value)'],['../classAdafruit__BusIO__Register.html#a5c49c498815a5414d6fb5915760bbeba',1,'Adafruit_BusIO_Register::read(uint16_t *value)'],['../classAdafruit__BusIO__Register.html#a699434b2567ae8fce541b8048d891252',1,'Adafruit_BusIO_Register::read(void)'],['../classAdafruit__BusIO__RegisterBits.html#a868614bb793ae3c4c00b7954896213d0',1,'Adafruit_BusIO_RegisterBits::read()'],['../classAdafruit__I2CDevice.html#afeeccb3147b2f0340c65d2c0c1ce3ea6',1,'Adafruit_I2CDevice::read()'],['../classAdafruit__SPIDevice.html#a5c4fce15c92a0210c0872a827f239ab1',1,'Adafruit_SPIDevice::read()'],['../classHttpClient.html#a18ea928ad5adf203405e24070c67f84d',1,'HttpClient::read()']]],
+  ['readadc_5fdifferential_5f0_5f1_2',['readADC_Differential_0_1',['../classAdafruit__ADS1X15.html#a9451025a1d57b0d01eed5e5cbb3d9249',1,'Adafruit_ADS1X15']]],
+  ['readadc_5fdifferential_5f0_5f3_3',['readADC_Differential_0_3',['../classAdafruit__ADS1X15.html#a07016074440ba793636633da32a3f30d',1,'Adafruit_ADS1X15']]],
+  ['readadc_5fdifferential_5f1_5f3_4',['readADC_Differential_1_3',['../classAdafruit__ADS1X15.html#a7b727524444305319aa60c21b1a58239',1,'Adafruit_ADS1X15']]],
+  ['readadc_5fdifferential_5f2_5f3_5',['readADC_Differential_2_3',['../classAdafruit__ADS1X15.html#abbc2117832a544d26fe50129a53dcf33',1,'Adafruit_ADS1X15']]],
+  ['readadc_5fsingleended_6',['readADC_SingleEnded',['../classAdafruit__ADS1X15.html#a9048c868e4904071b83c74b224918fc8',1,'Adafruit_ADS1X15']]],
+  ['readaltitude_7',['readAltitude',['../classAdafruit__BMP3XX.html#a7c7c23f9fdd50c0c17b2f3d9495fc262',1,'Adafruit_BMP3XX']]],
+  ['readcached_8',['readCached',['../classAdafruit__BusIO__Register.html#a9738fbb8c088d5cf6d381f87dc9288bb',1,'Adafruit_BusIO_Register']]],
+  ['readheader_9',['readHeader',['../classHttpClient.html#ad2c91a8d7e27b4912751b229d2229adc',1,'HttpClient']]],
+  ['readheadername_10',['readHeaderName',['../classHttpClient.html#a625714a7df2db4e3c5f1e56b3b5c3454',1,'HttpClient']]],
+  ['readheadervalue_11',['readHeaderValue',['../classHttpClient.html#ab88272dffdf136297354513ccbd7c59a',1,'HttpClient']]],
+  ['readjson_12',['readJson',['../classOtaUpdate.html#a01384013b060b6c00085149e232ab0ea',1,'OtaUpdate']]],
+  ['readmacadress_13',['readMacAdress',['../classMemoryManager.html#a817565aad606bf6a3389979dcf92fb76',1,'MemoryManager']]],
+  ['readpressure_14',['readPressure',['../classAdafruit__BMP3XX.html#a59155a6264bd91e704852e2bd45b96b1',1,'Adafruit_BMP3XX']]],
+  ['readregister_15',['readRegister',['../classAdafruit__ADS1X15.html#a5e66d4abbf9f0de8c628e9a412beaf8f',1,'Adafruit_ADS1X15']]],
+  ['readtemperature_16',['readTemperature',['../classAdafruit__BMP3XX.html#ad9182a89f2ec135146982cdb85673fa9',1,'Adafruit_BMP3XX']]],
+  ['requestlatestfirmware_17',['requestLatestFirmware',['../classOtaUpdate.html#aa1c68e7cde1f6f0b02e2e6717da463a2',1,'OtaUpdate']]],
+  ['reset_18',['reset',['../classMemoryManager.html#ab655c4b6dad2bf5c414b4beabe010e36',1,'MemoryManager::reset()'],['../classMatrixController.html#a53addfb6c52039fd46ad6d45da54af16',1,'MatrixController::reset()']]],
+  ['resetstate_19',['resetState',['../classHttpClient.html#ab29155f574471c50d78b72484378b9b5',1,'HttpClient']]],
+  ['responsebody_20',['responseBody',['../classHttpClient.html#a05eb433f7d6ce865c6bd4e16526e72c3',1,'HttpClient']]],
+  ['responsestatuscode_21',['responseStatusCode',['../classHttpClient.html#a0fba0410f61b4317f42fd1d477d0162b',1,'HttpClient']]],
+  ['rgb2hsv_22',['rgb2hsv',['../classMatrixController.html#a300d1950cc56dc183add7edf85df0430',1,'MatrixController']]]
+];

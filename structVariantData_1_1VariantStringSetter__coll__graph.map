@@ -1,0 +1,12 @@
+<map id="VariantData::VariantStringSetter" name="VariantData::VariantStringSetter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1492,165,1593"/>
+<area shape="rect" id="Node000002" href="$classVariantData.html" title=" " alt="" coords="18,257,152,1238"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,1237,88,1475,82,1475,82,1237"/>
+<area shape="rect" id="Node000003" href="$unionVariantContent.html" title=" " alt="" coords="171,5,304,194"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="188,195,177,219,160,269,155,267,172,217,183,193"/>
+<area shape="rect" id="Node000005" href="$classVariantSlot.html" title=" " alt="" coords="177,572,298,923"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="240,194,240,555,234,555,234,194"/>
+<area shape="rect" id="Node000004" href="$classCollectionData.html" title=" " alt="" coords="236,1316,370,1769"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="323,1316,324,1292,324,1262,327,979,335,758,336,652,332,538,323,409,307,257,295,210,300,209,312,256,329,409,338,538,341,652,340,758,333,979,329,1262,329,1292,328,1316"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="254,922,285,1299,280,1300,249,923"/>
+</map>

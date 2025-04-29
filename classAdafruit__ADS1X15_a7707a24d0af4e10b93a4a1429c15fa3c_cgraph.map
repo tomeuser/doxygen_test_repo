@@ -1,0 +1,5 @@
+<map id="Adafruit_ADS1X15::conversionComplete" name="Adafruit_ADS1X15::conversionComplete">
+<area shape="rect" id="Node000001" title="Returns true if conversion is complete, false otherwise." alt="" coords="5,5,205,46"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__ADS1X15.html#a5e66d4abbf9f0de8c628e9a412beaf8f" title="Read 16&#45;bits from the specified destination register." alt="" coords="253,13,462,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,23,237,23,237,28,205,28"/>
+</map>

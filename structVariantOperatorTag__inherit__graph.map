@@ -1,0 +1,13 @@
+<map id="VariantOperatorTag" name="VariantOperatorTag">
+<area shape="rect" id="Node000001" title=" " alt="" coords="244,5,368,72"/>
+<area shape="rect" id="Node000002" href="$structVariantOperators.html" title=" " alt="" coords="10,120,177,201"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,81,165,122,162,117,235,77"/>
+<area shape="rect" id="Node000004" href="$structVariantOperators.html" title=" " alt="" coords="201,120,410,201"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="308,86,308,120,303,120,303,86"/>
+<area shape="rect" id="Node000006" href="$structVariantOperators.html" title=" " alt="" coords="434,127,614,194"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="378,76,467,125,465,130,376,81"/>
+<area shape="rect" id="Node000003" href="$classElementProxy.html" title=" " alt="" coords="5,256,182,486"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="96,216,96,257,91,257,91,216"/>
+<area shape="rect" id="Node000005" href="$classMemberProxy.html" title=" " alt="" coords="221,249,390,493"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="308,216,308,249,303,249,303,216"/>
+</map>

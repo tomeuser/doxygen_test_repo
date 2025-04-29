@@ -1,0 +1,7 @@
+<map id="bmp3_fifo" name="bmp3_fifo">
+<area shape="rect" id="Node000001" title="bmp3 bmp3 FIFO" alt="" coords="118,297,185,364"/>
+<area shape="rect" id="Node000002" href="$structbmp3__fifo__data.html" title="bmp3 fifo frame" alt="" coords="5,5,145,234"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,233,136,280,131,282,114,235"/>
+<area shape="rect" id="Node000003" href="$structbmp3__fifo__settings.html" title="bmp3 fifo configuration" alt="" coords="169,5,288,234"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,235,172,282,167,280,184,233"/>
+</map>

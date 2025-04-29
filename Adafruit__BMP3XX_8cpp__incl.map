@@ -1,0 +1,15 @@
+<map id="Adafruit_BMP3XX.cpp" name="Adafruit_BMP3XX.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="71,5,222,31"/>
+<area shape="rect" id="Node000002" href="$Adafruit__BMP3XX_8h.html" title=" " alt="" coords="12,79,150,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,33,104,69,100,66,134,29"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="174,79,249,105"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="159,29,192,66,188,69,155,33"/>
+<area shape="rect" id="Node000003" href="$bmp3_8h.html" title=" " alt="" coords="49,153,113,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="84,105,84,137,78,137,78,105"/>
+<area shape="rect" id="Node000004" href="$bmp3__defs_8h.html" title="Sensor driver for BMP3 sensor." alt="" coords="33,226,129,252"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="84,179,84,211,78,211,78,179"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,300,69,326"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="76,254,55,288,50,285,71,251"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="93,300,160,326"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="91,251,113,285,108,288,86,254"/>
+</map>

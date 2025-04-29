@@ -1,0 +1,5 @@
+<map id="Adafruit_NeoPixel::show" name="Adafruit_NeoPixel::show">
+<area shape="rect" id="Node000001" title="Transmit pixel data in RAM to NeoPixels." alt="" coords="5,13,168,38"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__NeoPixel.html#a9e900a60b0ac2b43b99309bb118b929e" title="Check whether a call to show() will start sending data immediately or will &#39;block&#39; for a required int..." alt="" coords="216,5,347,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,23,200,23,200,28,168,28"/>
+</map>

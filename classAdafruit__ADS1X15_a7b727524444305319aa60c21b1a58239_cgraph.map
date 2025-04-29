@@ -1,0 +1,14 @@
+<map id="Adafruit_ADS1X15::readADC_Differential_1_3" name="Adafruit_ADS1X15::readADC_Differential_1_3">
+<area shape="rect" id="Node000001" title="Reads the conversion results, measuring the voltage difference between the P (AIN1) and N (AIN3) inpu..." alt="" coords="5,71,194,111"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__ADS1X15.html#a7707a24d0af4e10b93a4a1429c15fa3c" title="Returns true if conversion is complete, false otherwise." alt="" coords="260,5,460,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,67,260,48,262,53,184,73"/>
+<area shape="rect" id="Node000004" href="$classAdafruit__ADS1X15.html#a759eed9610a6ab25629f282a09852540" title="In order to clear the comparator, we need to read the conversion results. This function reads the las..." alt="" coords="270,71,450,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="194,88,254,88,254,94,194,94"/>
+<area shape="rect" id="Node000005" href="$classAdafruit__ADS1X15.html#a369aeece7ca9a6fb254b4330876bb573" title="Non&#45;blocking start conversion function." alt="" coords="242,136,478,161"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="193,109,242,120,282,129,281,134,241,126,192,115"/>
+<area shape="rect" id="Node000003" href="$classAdafruit__ADS1X15.html#a5e66d4abbf9f0de8c628e9a412beaf8f" title="Read 16&#45;bits from the specified destination register." alt="" coords="528,46,737,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="460,35,512,42,512,47,460,41"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="450,78,512,70,513,76,451,83"/>
+<area shape="rect" id="Node000006" href="$classAdafruit__ADS1X15.html#a7b62080c0e3ad34ea753715c54f1a50c" title="Writes 16&#45;bits to the specified destination register." alt="" coords="526,136,738,161"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="479,146,510,146,510,151,479,151"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="OtaUpdate" name="OtaUpdate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="251,3579,440,3991"/>
+<area shape="rect" id="Node000002" href="$classMqttClient.html" title="This class represents a mqtt client." alt="" coords="9,2118,223,2977"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,2976,162,3107,181,3244,207,3381,238,3515,252,3562,246,3563,232,3516,201,3383,176,3245,156,3108,141,2977"/>
+<area shape="rect" id="Node000003" href="$classPubSubClient.html" title=" " alt="" coords="5,121,227,1529"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="119,1544,119,2118,114,2118,114,1544"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="98,5,135,72"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="119,87,119,121,114,121,114,87"/>
+<area shape="rect" id="Node000005" href="$classHttpClient.html" title=" " alt="" coords="248,1579,444,3516"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="348,3515,348,3562,343,3562,343,3515"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="324,792,368,858"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="348,873,348,1579,343,1579,343,873"/>
+<area shape="rect" id="Node000007" href="$classInternalStorageESPClass.html" title=" " alt="" coords="468,2443,647,2652"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="559,2652,552,2819,536,3035,506,3276,484,3398,458,3516,444,3563,439,3562,452,3515,479,3397,500,3275,530,3035,547,2818,554,2651"/>
+<area shape="rect" id="Node000008" href="$classOTAStorage.html" title=" " alt="" coords="460,690,656,960"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="560,975,560,2443,555,2443,555,975"/>
+</map>

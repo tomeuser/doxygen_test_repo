@@ -1,0 +1,5 @@
+<map id="OtaUpdate::readJson" name="OtaUpdate::readJson">
+<area shape="rect" id="Node000001" title="This function analyses the json file which contains all latest firmware information." alt="" coords="5,5,149,31"/>
+<area shape="rect" id="Node000002" href="$classOtaUpdate.html#acdba8ea5767239cfc79e906cc599def8" title="Compares old and new firmware version number and returns if new version is available." alt="" coords="197,5,399,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,16,181,16,181,21,149,21"/>
+</map>

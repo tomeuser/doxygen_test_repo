@@ -1,0 +1,21 @@
+<map id="Adafruit_NeoPixel::show" name="Adafruit_NeoPixel::show">
+<area shape="rect" id="Node000001" title="Transmit pixel data in RAM to NeoPixels." alt="" coords="444,163,606,188"/>
+<area shape="rect" id="Node000002" href="$classMatrixController.html#aa8df859b24ec3ef4bf990a00a8c21885" title="Initializes the matrix and sets up default settings for all chambers." alt="" coords="235,5,384,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="504,152,458,97,428,69,395,44,372,34,374,29,397,40,431,65,462,93,508,148"/>
+<area shape="rect" id="Node000003" href="$classMatrixController.html#a26cd9bf52fb9896b3786de47e63a7b15" title="Handles the blink effect for the matrix." alt="" coords="223,55,396,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="490,156,395,102,350,83,352,78,397,97,493,152"/>
+<area shape="rect" id="Node000005" href="$classMatrixController.html#aa97396dd55ce7fc63a5ae5f872d38dbb" title="Configures the blink state of a specific chamber." alt="" coords="5,171,175,212"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="466,161,396,146,309,138,271,139,223,146,179,158,137,173,136,168,177,153,222,141,271,134,309,132,396,141,467,155"/>
+<area shape="rect" id="Node000006" href="$classMatrixController.html#ac0b270ee78420c85c02b02d949045817" title="Configures the color of a specific chamber using a hex color string." alt="" coords="225,155,394,196"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="429,178,395,178,395,173,429,173"/>
+<area shape="rect" id="Node000007" href="$classMatrixController.html#a5adf4f62a593e6527ee3d27172fbd3c3" title="Configures the color of a specific chamber using RGB values." alt="" coords="225,221,394,261"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="466,196,380,222,378,217,465,191"/>
+<area shape="rect" id="Node000008" href="$classMatrixController.html#a887f78ba1b9428524701718df5dc3cf5" title="Controls the matrix based on incoming messages." alt="" coords="12,303,168,344"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="513,203,494,234,468,268,436,301,397,326,340,344,279,351,221,350,168,343,169,338,221,344,279,346,339,339,395,321,432,297,464,265,490,231,508,201"/>
+<area shape="rect" id="Node000009" href="$classMatrixController.html#a7817d862d59e1cfaa82b2af61c23c791" title="Starts the blinking effect for a specific chamber." alt="" coords="223,285,396,311"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="501,201,455,239,397,275,367,287,365,282,395,270,451,234,497,197"/>
+<area shape="rect" id="Node000004" href="$classMatrixController.html#a5b007b5cd29f21c8f250946cf33315ab" title="Main loop to handle blinking and button states." alt="" coords="19,55,161,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="207,70,161,70,161,65,207,65"/>
+<area shape="poly" id="edge9_Node000009_Node000005" title=" " alt="" coords="240,282,222,275,166,245,118,214,121,210,168,241,224,270,242,278"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="208,312,169,317,168,312,208,307"/>
+</map>

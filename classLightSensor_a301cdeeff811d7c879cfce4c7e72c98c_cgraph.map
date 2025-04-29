@@ -1,0 +1,19 @@
+<map id="LightSensor::loop" name="LightSensor::loop">
+<area shape="rect" id="Node000001" title="Main loop function for the light sensor." alt="" coords="5,112,127,138"/>
+<area shape="rect" id="Node000002" href="$classLightSensor.html#ac06fe7dcd355a54ead47833837757476" title="Checks if the reading from the given sensor is complete." alt="" coords="184,5,376,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,109,119,74,173,40,187,34,190,39,176,45,122,79,82,113"/>
+<area shape="rect" id="Node000003" href="$classLightSensor.html#a17356f58d029246e77a8ae5aca09f91b" title="Processes the most recent battery voltage data from the given sensor." alt="" coords="175,55,386,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="110,109,174,90,206,82,208,87,175,95,111,114"/>
+<area shape="rect" id="Node000005" href="$classLightSensor.html#aa4a7b68c4e6f74f468e72b6ed399dd6c" title="Processes the most recent light sensor data from the given sensor." alt="" coords="194,104,366,145"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="127,122,179,122,179,128,127,128"/>
+<area shape="rect" id="Node000008" href="$classLightSensor.html#ad690adf9f1d512ebb4c4b18d5d780228" title="Starts reading the battery voltage value for the given sensor." alt="" coords="183,170,378,210"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="111,136,197,162,196,167,110,141"/>
+<area shape="rect" id="Node000009" href="$classLightSensor.html#af0d35a76def082a0aa5780e9e350b3b0" title="Starts reading the light sensor value for the given sensor." alt="" coords="189,235,372,276"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="80,136,120,177,147,200,176,220,188,226,186,231,173,224,144,204,117,181,77,140"/>
+<area shape="rect" id="Node000004" href="$classLightSensor.html#a316b3e1edba5b5062839e9b52017fe57" title="Maps analog&#45;to&#45;digital converter values to voltage values." alt="" coords="434,47,631,88"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="386,65,419,65,419,70,386,70"/>
+<area shape="rect" id="Node000006" href="$classLightSensor.html#a6cd1668c3ec499ac6f0a0fe15cc692a5" title="Converts the ADC value to a corresponding lux value." alt="" coords="439,112,626,138"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="367,122,423,122,423,128,367,128"/>
+<area shape="rect" id="Node000007" href="$classLightSensor.html#a5bb31131fad2e67207d3bb8387f2bcfb" title="Compares previous and latest light sensor data after turn on and turn off command got executed." alt="" coords="450,161,615,187"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="367,139,449,155,448,160,366,144"/>
+</map>

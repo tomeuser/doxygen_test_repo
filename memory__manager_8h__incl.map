@@ -1,0 +1,22 @@
+<map id="memory_manager.h" name="memory_manager.h">
+<area shape="rect" id="Node000001" title="This is the headerfile of the class MemoryManager declaring all varibales and methods used by this cl..." alt="" coords="157,5,292,31"/>
+<area shape="rect" id="Node000002" href="$const_8h.html" title="Project settings." alt="" coords="5,153,121,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,33,89,144,86,140,209,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="145,153,202,178"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="223,32,185,139,180,137,218,30"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="227,153,328,178"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="230,30,252,104,267,137,262,140,247,106,225,32"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="382,79,446,105"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="257,29,368,71,367,76,256,34"/>
+<area shape="rect" id="Node000006" href="$mqtt__client_8h.html" title="This is the headerfile of the class MqttClient declaring all varibales and methods used by this class..." alt="" coords="262,79,357,105"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="241,29,286,67,282,71,237,34"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="269,108,120,150,119,145,267,103"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="288,108,211,147,209,143,285,103"/>
+<area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="307,106,292,139,287,137,302,104"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="352,153,443,178"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="326,103,373,141,369,145,323,107"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="467,153,598,178"/>
+<area shape="poly" id="edge10_Node000006_Node000008" title=" " alt="" coords="348,103,481,145,479,150,347,108"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="622,153,680,178"/>
+<area shape="poly" id="edge11_Node000006_Node000009" title=" " alt="" coords="358,100,608,150,606,155,357,105"/>
+</map>

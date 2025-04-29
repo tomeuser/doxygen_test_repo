@@ -1,0 +1,9 @@
+<map id="memory_manager.h" name="memory_manager.h">
+<area shape="rect" id="Node000001" title="This is the headerfile of the class MemoryManager declaring all varibales and methods used by this cl..." alt="" coords="40,5,174,31"/>
+<area shape="rect" id="Node000002" href="$config_8h.html" title="This is the config file. It contains all class instances and imports external libraries." alt="" coords="9,79,75,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,44,55,80,51,77,84,40"/>
+<area shape="rect" id="Node000004" href="$memory__manager_8cpp.html" title="This file defines all methodes of class MemoryManager which were declared in memory_manager...." alt="" coords="98,79,247,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="130,40,164,77,160,80,126,44"/>
+<area shape="rect" id="Node000003" href="$main_8cpp.html" title="Skatch to convert MQTT messages to UART messages and reverse. Initializes an encrypted MQTT Client an..." alt="" coords="5,153,79,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="45,120,45,152,39,152,39,120"/>
+</map>

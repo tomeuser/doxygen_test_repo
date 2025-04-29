@@ -1,0 +1,26 @@
+<map id="light_sensor.h" name="light_sensor.h">
+<area shape="rect" id="Node000001" title="This is the header file of the template class light_sensor.h declaring all variables and methods used..." alt="" coords="544,5,646,31"/>
+<area shape="rect" id="Node000002" href="$config_8h.html" title="This is the config file. It contains all class instances and imports external libraries." alt="" coords="289,226,354,252"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="587,46,554,125,525,180,458,203,355,231,354,226,456,197,521,176,549,123,582,44"/>
+<area shape="rect" id="Node000004" href="$light__sensor_8hpp.html" title="This file defines all methods of the template class LightSensor which were declared in light_sensor...." alt="" coords="585,79,700,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="605,43,630,77,626,80,601,46"/>
+<area shape="rect" id="Node000005" href="$matrix__controller_8h.html" title="This is the header file of the template class MatrixController declaring all variables and methods us..." alt="" coords="205,79,331,105"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="530,36,324,81,323,76,529,31"/>
+<area shape="rect" id="Node000003" href="$main_8cpp.html" title="Skatch to convert MQTT messages to UART messages and reverse. Initializes an encrypted MQTT Client an..." alt="" coords="285,300,358,326"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="324,267,324,300,319,300,319,267"/>
+<area shape="poly" id="edge4_Node000004_Node000001" title=" " alt="" coords="632,67,607,33,612,30,636,64"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="284,118,299,152,321,225,316,227,294,154,279,120"/>
+<area shape="rect" id="Node000006" href="$matrix__controller_8hpp.html" title="This file defines all methods of the template class MatrixController which were declared in matrix_co..." alt="" coords="143,153,284,178"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="244,118,218,154,214,151,240,114"/>
+<area shape="rect" id="Node000007" href="$power__over__ethernet_8h.html" title="This is the header file of class power_over_ethernet.h declaring all variables and methods used by th..." alt="" coords="359,153,511,178"/>
+<area shape="poly" id="edge9_Node000005_Node000007" title=" " alt="" coords="311,109,407,150,405,155,309,114"/>
+<area shape="rect" id="Node000009" href="$temp__sensor_8h.html" title="This is the header file of class temp_sensor.h declaring all variables and methods used by this class..." alt="" coords="12,153,119,178"/>
+<area shape="poly" id="edge12_Node000005_Node000009" title=" " alt="" coords="220,113,101,155,99,150,218,108"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="238,140,264,103,268,106,242,143"/>
+<area shape="poly" id="edge10_Node000007_Node000002" title=" " alt="" coords="404,189,342,228,339,223,401,185"/>
+<area shape="rect" id="Node000008" href="$power__over__ethernet_8cpp.html" title="This file defines all methods of class PowerOverEthernet which were declared in power_over_ethernet...." alt="" coords="378,226,545,252"/>
+<area shape="poly" id="edge11_Node000007_Node000008" title=" " alt="" coords="447,192,459,225,455,227,442,194"/>
+<area shape="poly" id="edge13_Node000009_Node000002" title=" " alt="" coords="124,180,289,226,288,231,123,185"/>
+<area shape="rect" id="Node000010" href="$temp__sensor_8cpp.html" title="This file defines all methods of class TempSensor which were declared in temp_sensor...." alt="" coords="5,226,126,252"/>
+<area shape="poly" id="edge14_Node000009_Node000010" title=" " alt="" coords="68,194,68,226,63,226,63,194"/>
+</map>

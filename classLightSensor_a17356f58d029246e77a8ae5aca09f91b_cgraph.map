@@ -1,0 +1,5 @@
+<map id="LightSensor::processBatteryData" name="LightSensor::processBatteryData">
+<area shape="rect" id="Node000001" title="Processes the most recent battery voltage data from the given sensor." alt="" coords="5,13,217,38"/>
+<area shape="rect" id="Node000002" href="$classLightSensor.html#a316b3e1edba5b5062839e9b52017fe57" title="Maps analog&#45;to&#45;digital converter values to voltage values." alt="" coords="265,5,462,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,23,249,23,249,28,217,28"/>
+</map>

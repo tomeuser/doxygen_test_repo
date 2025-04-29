@@ -1,0 +1,9 @@
+<map id="power_over_ethernet.h" name="power_over_ethernet.h">
+<area shape="rect" id="Node000001" title="This is the header file of class power_over_ethernet.h declaring all variables and methods used by th..." alt="" coords="35,5,188,31"/>
+<area shape="rect" id="Node000002" href="$config_8h.html" title="This is the config file. It contains all class instances and imports external libraries." alt="" coords="9,79,75,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,44,56,80,52,77,88,40"/>
+<area shape="rect" id="Node000004" href="$power__over__ethernet_8cpp.html" title="This file defines all methods of class PowerOverEthernet which were declared in power_over_ethernet...." alt="" coords="99,79,265,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="136,40,172,77,168,80,132,44"/>
+<area shape="rect" id="Node000003" href="$main_8cpp.html" title="Skatch to convert MQTT messages to UART messages and reverse. Initializes an encrypted MQTT Client an..." alt="" coords="5,153,79,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="45,120,45,152,39,152,39,120"/>
+</map>

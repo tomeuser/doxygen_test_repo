@@ -1,0 +1,14 @@
+<map id="Adafruit_BMP3XX::performReading" name="Adafruit_BMP3XX::performReading">
+<area shape="rect" id="Node000001" title="Perform a reading in blocking mode." alt="" coords="5,47,183,88"/>
+<area shape="rect" id="Node000002" href="$bmp3_8c.html#a8b7c253abd6cd44aa260578a10395697" title="This API reads the pressure, temperature or both data from the sensor, compensates the data and store..." alt="" coords="456,5,612,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,47,230,40,339,28,440,20,441,26,340,33,231,45,184,52"/>
+<area shape="rect" id="Node000004" href="$bmp3_8c.html#aad480e8293520382c77e0b711241d964" title="This API sets the power mode of the sensor." alt="" coords="250,55,388,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="183,65,235,65,235,70,183,70"/>
+<area shape="rect" id="Node000006" href="$bmp3_8c.html#a2748517d2685101bafc1c2bdf813c391" title="This API sets the power control(pressure enable andtemperature enable), over sampling,..." alt="" coords="231,104,408,130"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="183,84,243,98,242,103,182,89"/>
+<area shape="rect" id="Node000003" href="$bmp3_8c.html#a9e0c2cdecfdac8aa6ed4e35940f7ade7" title="This API reads the data from the given register address of the sensor." alt="" coords="660,31,771,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="613,26,645,31,644,36,612,32"/>
+<area shape="rect" id="Node000005" href="$bmp3_8c.html#aab06f63f2fc075f9d40bd0a16d42fda5" title="This API gets the power mode of the sensor." alt="" coords="465,55,603,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="389,65,450,65,450,70,389,70"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="603,56,645,50,645,55,604,61"/>
+</map>

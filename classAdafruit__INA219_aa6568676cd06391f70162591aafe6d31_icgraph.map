@@ -1,0 +1,5 @@
+<map id="Adafruit_INA219::getCurrent_raw" name="Adafruit_INA219::getCurrent_raw">
+<area shape="rect" id="Node000001" title="Gets the raw current value (16&#45;bit signed integer, so +&#45;32767)" alt="" coords="264,5,475,31"/>
+<area shape="rect" id="Node000002" href="$classAdafruit__INA219.html#a962c14fad67d30614fa164e25ebfc158" title="Gets the current value in mA, taking into account the config settings and current LSB." alt="" coords="5,5,216,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,21,216,21,216,16,248,16"/>
+</map>

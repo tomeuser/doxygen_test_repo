@@ -1,0 +1,10 @@
+<map id="SlotKeySetter" name="SlotKeySetter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,617,117,704"/>
+<area shape="rect" id="Node000002" href="$classVariantSlot.html" title=" " alt="" coords="148,5,268,356"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,345,138,381,104,498,78,602,73,600,99,497,133,380,145,343"/>
+<area shape="rect" id="Node000004" href="$classCollectionData.html" title=" " alt="" coords="141,434,275,887"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="211,356,211,417,205,417,205,356"/>
+<area shape="rect" id="Node000003" href="$unionVariantContent.html" title=" " alt="" coords="199,950,332,1138"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="296,950,301,926,301,911,302,776,305,672,301,567,284,435,270,372,276,371,289,434,307,567,310,672,307,777,307,911,307,926,301,951"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="218,886,225,925,226,933,221,935,219,927,213,887"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="MatrixController::startBlink" name="MatrixController::startBlink">
+<area shape="rect" id="Node000001" title="Starts the blinking effect for a specific chamber." alt="" coords="223,46,395,72"/>
+<area shape="rect" id="Node000002" href="$classMatrixController.html#aa97396dd55ce7fc63a5ae5f872d38dbb" title="Configures the blink state of a specific chamber." alt="" coords="5,5,175,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,46,175,41,175,36,207,41"/>
+<area shape="rect" id="Node000003" href="$classMatrixController.html#a887f78ba1b9428524701718df5dc3cf5" title="Controls the matrix based on incoming messages." alt="" coords="12,71,168,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,77,169,82,168,77,207,71"/>
+</map>
