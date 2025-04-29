@@ -3,29 +3,30 @@ name: Doxygen Documentation
 on:
   push:
     branches:
-      - main
+      - main  # Trigger workflow on push events to main branch
   pull_request:
     branches:
-      - main
+      - main  # Trigger workflow on pull requests to main branch
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest  # Use Ubuntu as the runner environment
+    permissions:
+       contents: write  # Grant write permission to repository contents
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Set up Doxygen
-      run: sudo apt-get install -y doxygen graphviz
+      uses: actions/checkout@v3  # Checkout the repository code
 
     - name: Generate Doxygen documentation
-      run: doxygen Doxyfile
+      uses: mattnotmitt/doxygen-action@v1.1.0  # Use doxygen-action to generate documentation
+      with:
+        # Path to Doxyfile
+        doxyfile-path: "./docs/Doxyfile"  # Specify the location of your Doxyfile
 
     - name: Deploy to GitHub Pages
-      if: github.ref == 'refs/heads/main'
-      uses: peaceiris/actions-gh-pages@v3
+      if: github.ref == 'refs/heads/main'  # Only deploy when changes are on the main branch
+      uses: peaceiris/actions-gh-pages@v3  # Use actions-gh-pages for deployment
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./html # Adjust this to the directory where Doxygen generates the HTML files
-        destination_dir: ./docs # Optional: if you want to publish to a subdirectory like /docs
+        github_token: ${{ secrets.GITHUB_TOKEN }}  # Use GitHub token for authentication
+        publish_dir: ./docs/html  # Directory containing the generated documentation
